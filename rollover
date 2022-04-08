@@ -1,0 +1,143 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Radio_Televisyen_Malaysia.svg/440px-Radio_Televisyen_Malaysia.svg.png" group-title="Malaysia", RTM Saluran Berita
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png" group-title="Malaysia", TV1
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_100.png" group-title="Malaysia", TV2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="Malaysia", TV3 
+http://50.7.161.82:8278/TV3/playlist.m3u8?tid=m70290ab09fb91755596&ct=18225&tsum=469dc7ac0d3cfa956c05c9573dae5555
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="Malaysia", TV3 HD
+https://mediahomes.github.io/assets/my/ch_tv3.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="Malaysia", TV3 FHD
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Malaysia", TV9
+http://50.7.161.82:8278/TV9/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1abfbe474cf3087ad6958497748a0a7b
+
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Malaysia", TV9 HD
+http://50.7.161.82:8278/TV3/playlist.m3u8?tid=m06164131260816874956&ct=18381&tsum=e705aeff8e774c6bb80da0c5806c0685
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_100.png" group-title="Malaysia", Ntv7
+http://50.7.161.82:8278/NTV7/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=45a86f6a843417de272046a9cc7b7457
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_100.png" group-title="Malaysia", 8TV
+http://50.7.161.82:8278/TV8/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=5f1cd81599f71f509102d67f25571b0f
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_100.png" group-title="Malaysia", 8TV HD
+http://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdGTwPLqBd47phZzAwHhHmI)/dm/3/x6qud17/s/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drama_Sangat_HQ.jpg/220px-Drama_Sangat_HQ.jpg" group-title="Malaysia", Drama Sangat 
+http://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lePqfJHgrHb4UPZApKwzZs)/dm/3/x6zvnex/s/live-4.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA A
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA HD B
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18009&tsum=746163755fb8245b430ee65984d18793
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA HD C
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000015528178&ct=18015&tsum=efae61040394f403811be1dcefa47ab4
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA A
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA HD B
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18009&tsum=746163755fb8245b430ee65984d18793
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA HD C
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000015528178&ct=18015&tsum=efae61040394f403811be1dcefa47ab4
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png" group-title="Malaysia", Astro Warna A
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m70290ab09fb91755596&ct=18078&tsum=40cd2f4a1d02c820fe6c44e2080c3e5f
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png" group-title="Malaysia", Astro Warna HD B
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png" group-title="Malaysia", Astro Warna HD C
+http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1706
+
+#EXTINF:-1 tvg-logo#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png" group-title="Malaysia", Astro Citra A
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=35f944b2e9cfbf5111b7692198fd855a
+
+#EXTINF:-1 tvg-logo#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png" group-title="Malaysia", Astro Citra HD B
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m02000000000016481115&ct=17950&tsum=de9053742291cc2c76b6dc3439c8560f
+
+#EXTINF:-1 tvg-logo#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png" group-title="Malaysia", Astro Citra HD C
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m0641803235cf1329581&ct=17949&tsum=620426df4e138d2280de722046bea693
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_100.png" group-title="Malaysia", Astro Prima A
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=8442816d586a19e1894c18f2285e767e
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_100.png" group-title="Malaysia", Astro Prima HD B
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_100.png" group-title="Malaysia", Astro Prima HD C
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m66d73ad88c4618200591&ct=17910&tsum=ffe8e7c92dfedfca0b35c46d14eb0afc
+
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_100.png" group-title="Malaysia", Astro Oasis A
+http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=6ed99f164db0c90030ce10756604b757
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_100.png" group-title="Malaysia", Astro Oasis HD B
+http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m70290ab09fb91755596&ct=18104&tsum=22cd41faba0e037efbcf811a08fc7026
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_100.png" group-title="Malaysia", Naura
+http://50.7.161.82:8278/Naura/playlist.m3u8?tid=m70290ab09fb91755596&ct=17930&tsum=e115e9bed229026a824ecd614f147c75
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Malaysia", Boo
+http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m70290ab09fb91755596&ct=17930&tsum=e51bb12ad00a4edb5d52456aead95b92
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Malaysia", Boo B
+http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m02000000000012202962&ct=17950&tsum=ffa49d6092dfb18eb6443a6463d86f42
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_100.png" group-title="Malaysia", CINEMAX HD
+https://live.astradamy.com/hbogo/cinemax/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/parlimen_zpsouqfwxqk.png" group-title="Malaysia", RTM Parlimen
+http://parlimenrakyatmobile.secureswiftcontent.com:443/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
+
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/TV_Okey_RTM_zpszacgrlgn.png" group-title="Malaysia", OKEY
+http://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_100.png" group-title="Malaysia", Astro Hello
+http://50.7.161.82:8278/Drama/playlist.m3u8?tid=m70290ab09fb91755596&ct=18193&tsum=17dfa8d6ad90bd245dc609eb60ddaaea
+
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/Bernama_zpsw0cqdb8c.png" group-title="Malaysia", BERNAMA TV
+http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m70290ab09fb91755596&ct=18193&tsum=33695b93825ec6ec805a57c256daef32
+
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="Malaysia", MyCINEMA
+http://210.210.129.106/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="Malaysia", MyCINEMA ASIA
+http://210.210.129.106/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="Malaysia", MyCINEMA FAMILY
+http://210.210.129.106/uq2663/h/h194/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_100.png" group-title="Malaysia", AL HIJRAH
+http://50.7.161.82:8278/Alhijrah/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1ce036f87781c57e1c2dcfc789ea5dc9
+
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/tv%20ikim_zpsccmat3fi.png" group-title="Malaysia", TV IKIM
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.astroawani.com/images/astro_awani_501_logo.png" group-title="Malaysia", Astro Awani
+http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Malaysia", AssP1
+http://203.154.243.89:21201/nakhon
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Malaysia", AssP2
+http://203.154.243.89:21202/nakhon
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Malaysia", AssP3
+http://203.154.243.89:21203/nakhon
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Malaysia", AssP4
+http://203.154.243.89:21204/nakhon
