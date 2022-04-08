@@ -37,15 +37,6 @@ http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18009&tsum
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA HD C
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000015528178&ct=18015&tsum=efae61040394f403811be1dcefa47ab4
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA A
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA HD B
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18009&tsum=746163755fb8245b430ee65984d18793
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA HD C
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000015528178&ct=18015&tsum=efae61040394f403811be1dcefa47ab4
-
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png" group-title="Malaysia", Astro Warna A
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m70290ab09fb91755596&ct=18078&tsum=40cd2f4a1d02c820fe6c44e2080c3e5f
 
@@ -102,15 +93,6 @@ http://50.7.161.82:8278/Drama/playlist.m3u8?tid=m70290ab09fb91755596&ct=18193&ts
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/Bernama_zpsw0cqdb8c.png" group-title="Malaysia", BERNAMA TV
 http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m70290ab09fb91755596&ct=18193&tsum=33695b93825ec6ec805a57c256daef32
 
-#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="Malaysia", MyCINEMA
-http://210.210.129.106/uq2663/h/h192/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="Malaysia", MyCINEMA ASIA
-http://210.210.129.106/uq2663/h/h193/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="Malaysia", MyCINEMA FAMILY
-http://210.210.129.106/uq2663/h/h194/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_100.png" group-title="Malaysia", AL HIJRAH
 http://50.7.161.82:8278/Alhijrah/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1ce036f87781c57e1c2dcfc789ea5dc9
@@ -120,6 +102,75 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.astroawani.com/images/astro_awani_501_logo.png" group-title="Malaysia", Astro Awani
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 group-title="MPD" tvg-logo="https://www.pngkey.com/png/full/223-2235429_hbo-logo-hbo-logo-png.png" group-title="MOVIE",HBO HD 
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz 
+#EXTINF:-1 group-title="MPD" tvg-logo="https://s11.postimg.cc/ybnoc9ir7/400x400_38hbo_hd.jpg" group-title="MOVIE",HBO HD 
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1  tvg-logo="https://s15.postimg.cc/g7oiuikkr/hbo_hits.jpg" group-title="Movies",HBO HITS
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz 
+#EXTINF:-1 group-title="MPD" tvg-logo="https://s11.postimg.cc/g5s9gyesz/hbo_family.jpg" group-title="MOVIE",HBO Family HD 
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="Malaysia", MyCINEMA
+http://210.210.129.106/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="Malaysia", MyCINEMA ASIA
+http://210.210.129.106/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="Malaysia", MyCINEMA FAMILY
+http://210.210.129.106/uq2663/h/h194/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1  tvg-logo="https://s29.postimg.cc/v23lwpn9j/warnertv.png" group-title="Movies",WARNER TV
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://s14.postimg.cc/obxi97bdt/axn-logo-vector-download-400x400.jpg" group-title="Movies",AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-name="304" tvg-id="THRILL.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="MOVIE",THRILL
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-ID="HITS.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="MOVIE",HITS HD 
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="MOVIE",HITS MOVIES 
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1 
+#EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="MOVIE",KIX - FHD 
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-ID="FMN.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fmn.png" group-title="MOVIE",FMN 
+https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1 
+#EXTINF:-1 tvg-name="305" tvg-id="TYP.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="MOVIE", CELESTIAL MOVIE 
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Malaysia", AssP1
 http://203.154.243.89:21201/nakhon
