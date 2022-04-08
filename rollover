@@ -28,12 +28,6 @@ http://50.7.161.82:8278/NTV7/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsu
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_100.png" group-title="Malaysia", 8TV
 http://50.7.161.82:8278/TV8/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=5f1cd81599f71f509102d67f25571b0f
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_100.png" group-title="Malaysia", 8TV HD
-http://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdGTwPLqBd47phZzAwHhHmI)/dm/3/x6qud17/s/live-3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drama_Sangat_HQ.jpg/220px-Drama_Sangat_HQ.jpg" group-title="Malaysia", Drama Sangat 
-http://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lePqfJHgrHb4UPZApKwzZs)/dm/3/x6zvnex/s/live-4.m3u8
-
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA A
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
 
