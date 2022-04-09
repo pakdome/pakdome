@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg" url-tvg="https://bit.ly/aqfadtvepg" refresh="3600"
+
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png" group-title="SaniMpd", TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
