@@ -1,233 +1,233 @@
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png" group-title="Malaysia", TV1
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png" group-title="SaniMpd", TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_100.png" group-title="Malaysia", TV2
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_100.png" group-title="SaniMpd", TV2
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="Malaysia", TV3 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="SaniMpd", TV3 
 http://50.7.161.82:8278/TV3/playlist.m3u8?tid=m70290ab09fb91755596&ct=18225&tsum=469dc7ac0d3cfa956c05c9573dae5555
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="Malaysia", TV3 HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="SaniMpd", TV3 HD
 https://mediahomes.github.io/assets/my/ch_tv3.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="Malaysia", TV3 FHD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="SaniMpd", TV3 FHD
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Malaysia", TV9
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="SaniMpd", TV9
 http://50.7.161.82:8278/TV9/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1abfbe474cf3087ad6958497748a0a7b
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Malaysia", TV9 HD
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="SaniMpd", TV9 HD
 http://50.7.161.82:8278/TV3/playlist.m3u8?tid=m06164131260816874956&ct=18381&tsum=e705aeff8e774c6bb80da0c5806c0685
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_100.png" group-title="Malaysia", Ntv7
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_100.png" group-title="SaniMpd", Ntv7
 http://50.7.161.82:8278/NTV7/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=45a86f6a843417de272046a9cc7b7457
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_100.png" group-title="Malaysia", 8TV
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_100.png" group-title="SaniMpd", 8TV
 http://50.7.161.82:8278/TV8/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=5f1cd81599f71f509102d67f25571b0f
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA A
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="SaniMpd", Astro RIA A
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18050&tsum=d75d08716e962b3d0dc2b8d82ecd0135
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA HD B
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="SaniMpd", Astro RIA HD B
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m70290ab09fb91755596&ct=18009&tsum=746163755fb8245b430ee65984d18793
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="Malaysia", Astro RIA HD C
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png" group-title="SaniMpd", Astro RIA HD C
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000015528178&ct=18015&tsum=efae61040394f403811be1dcefa47ab4
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png" group-title="Malaysia", Astro Warna A
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png" group-title="SaniMpd", Astro Warna A
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m70290ab09fb91755596&ct=18078&tsum=40cd2f4a1d02c820fe6c44e2080c3e5f
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png" group-title="Malaysia", Astro Warna HD B
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png" group-title="SaniMpd", Astro Warna HD B
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png" group-title="Malaysia", Astro Citra A
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png" group-title="SaniMpd", Astro Citra A
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=35f944b2e9cfbf5111b7692198fd855a
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png" group-title="Malaysia", Astro Citra HD B
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png" group-title="SaniMpd", Astro Citra HD B
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m02000000000016481115&ct=17950&tsum=de9053742291cc2c76b6dc3439c8560f
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png" group-title="Malaysia", Astro Citra HD C
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png" group-title="SaniMpd", Astro Citra HD C
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m0641803235cf1329581&ct=17949&tsum=620426df4e138d2280de722046bea693
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_100.png" group-title="Malaysia", Astro Prima A
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_100.png" group-title="SaniMpd", Astro Prima A
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=8442816d586a19e1894c18f2285e767e
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_100.png" group-title="Malaysia", Astro Prima HD B
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_100.png" group-title="SaniMpd", Astro Prima HD B
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_100.png" group-title="Malaysia", Astro Prima HD C
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_100.png" group-title="SaniMpd", Astro Prima HD C
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m66d73ad88c4618200591&ct=17910&tsum=ffe8e7c92dfedfca0b35c46d14eb0afc
 
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_100.png" group-title="Malaysia", Astro Oasis A
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_100.png" group-title="SaniMpd", Astro Oasis A
 http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m70290ab09fb91755596&ct=17945&tsum=6ed99f164db0c90030ce10756604b757
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_100.png" group-title="Malaysia", Astro Oasis HD B
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_100.png" group-title="SaniMpd", Astro Oasis HD B
 http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m70290ab09fb91755596&ct=18104&tsum=22cd41faba0e037efbcf811a08fc7026
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_100.png" group-title="Malaysia", Naura
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_100.png" group-title="SaniMpd", Naura
 http://50.7.161.82:8278/Naura/playlist.m3u8?tid=m70290ab09fb91755596&ct=17930&tsum=e115e9bed229026a824ecd614f147c75
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Malaysia", Boo
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="SaniMpd", Boo
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m70290ab09fb91755596&ct=17930&tsum=e51bb12ad00a4edb5d52456aead95b92
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Malaysia", Boo B
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="SaniMpd", Boo B
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m02000000000012202962&ct=17950&tsum=ffa49d6092dfb18eb6443a6463d86f42
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_100.png" group-title="Malaysia", CINEMAX HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_100.png" group-title="SaniMpd", CINEMAX HD
 https://live.astradamy.com/hbogo/cinemax/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/parlimen_zpsouqfwxqk.png" group-title="Malaysia", RTM Parlimen
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/parlimen_zpsouqfwxqk.png" group-title="SaniMpd", RTM Parlimen
 http://parlimenrakyatmobile.secureswiftcontent.com:443/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
 
-#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/TV_Okey_RTM_zpszacgrlgn.png" group-title="Malaysia", OKEY
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/TV_Okey_RTM_zpszacgrlgn.png" group-title="SaniMpd", OKEY
 http://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_100.png" group-title="Malaysia", Astro Hello
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_100.png" group-title="SaniMpd", Astro Hello
 http://50.7.161.82:8278/Drama/playlist.m3u8?tid=m70290ab09fb91755596&ct=18193&tsum=17dfa8d6ad90bd245dc609eb60ddaaea
 
-#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/Bernama_zpsw0cqdb8c.png" group-title="Malaysia", BERNAMA TV
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/Bernama_zpsw0cqdb8c.png" group-title="SaniMpd", BERNAMA TV
 http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m70290ab09fb91755596&ct=18193&tsum=33695b93825ec6ec805a57c256daef32
 
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_100.png" group-title="Malaysia", AL HIJRAH
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_100.png" group-title="SaniMpd", AL HIJRAH
 http://50.7.161.82:8278/Alhijrah/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1ce036f87781c57e1c2dcfc789ea5dc9
 
-#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/tv%20ikim_zpsccmat3fi.png" group-title="Malaysia", TV IKIM
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/tv%20ikim_zpsccmat3fi.png" group-title="SaniMpd", TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.astroawani.com/images/astro_awani_501_logo.png" group-title="Malaysia", Astro Awani
+#EXTINF:-1 tvg-logo="https://static.astroawani.com/images/astro_awani_501_logo.png" group-title="SaniMpd", Astro Awani
 http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4
-#EXTINF:-1 group-title="MPD" tvg-logo="https://www.pngkey.com/png/full/223-2235429_hbo-logo-hbo-logo-png.png" group-title="MOVIE",HBO HD 
+#EXTINF:-1 group-title="MPD" tvg-logo="https://www.pngkey.com/png/full/223-2235429_hbo-logo-hbo-logo-png.png" group-title="SaniMpd",HBO HD 
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://s15.postimg.cc/g7oiuikkr/hbo_hits.jpg" group-title="Movies",HBO HITS
+#EXTINF:-1 tvg-logo="https://s15.postimg.cc/g7oiuikkr/hbo_hits.jpg" group-title="SaniMpd",HBO HITS
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 group-title="MPD" tvg-logo="https://s11.postimg.cc/g5s9gyesz/hbo_family.jpg" group-title="MOVIE",HBO Family HD 
+#EXTINF:-1 group-title="MPD" tvg-logo="https://s11.postimg.cc/g5s9gyesz/hbo_family.jpg" group-title="SaniMpd",HBO Family HD 
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 group-title="MPD" tvg-logo="https://s11.postimg.cc/g5s9gyesz/hbo_signature.jpg" group-title="MOVIE",HBO Signature HD 
+#EXTINF:-1 group-title="MPD" tvg-logo="https://s11.postimg.cc/g5s9gyesz/hbo_signature.jpg" group-title="SaniMpd",HBO Signature HD 
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="MPD" tvg-logo="non" group-title="MOVIE",Cinemax HD 
+#EXTINF:-1 group-title="MPD" tvg-logo="non" group-title="SaniMpd",Cinemax HD 
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-#EXTINF:-1 group-title="MPD" tvg-logo="non" group-title="MOVIE",Showcase Movies HD 
+#EXTINF:-1 group-title="MPD" tvg-logo="non" group-title="SaniMpd",Showcase Movies HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
-#EXTINF:-1 group-title="MPD" tvg-logo="non" group-title="MOVIE",Primetime HD 
+#EXTINF:-1 group-title="MPD" tvg-logo="non" group-title="SaniMpd",Primetime HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
-#EXTINF:-1 group-title="MPD" tvg-logo="non" group-title="MOVIE",BOX Office BollyOne HD 
+#EXTINF:-1 group-title="MPD" tvg-logo="non" group-title="SaniMpd",BOX Office BollyOne HD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
-#EXTINF:-1 group-title="MPD" tvg-logo="non" group-title="MOVIE",BOX Office Thangathirai HD 
+#EXTINF:-1 group-title="MPD" tvg-logo="non" group-title="SaniMpd",BOX Office Thangathirai HD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 
-#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="Malaysia", MyCINEMA
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="SaniMpd", MyCINEMA
 http://210.210.129.106/uq2663/h/h192/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="Malaysia", MyCINEMA ASIA
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="SaniMpd", MyCINEMA ASIA
 http://210.210.129.106/uq2663/h/h193/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="Malaysia", MyCINEMA FAMILY
+#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/1news_zpsw45akors.png" group-title="SaniMpd", MyCINEMA FAMILY
 http://210.210.129.106/uq2663/h/h194/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1  tvg-logo="https://s29.postimg.cc/v23lwpn9j/warnertv.png" group-title="Movies",WARNER TV
+#EXTINF:-1  tvg-logo="https://s29.postimg.cc/v23lwpn9j/warnertv.png" group-title="SaniMpd",WARNER TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://s14.postimg.cc/obxi97bdt/axn-logo-vector-download-400x400.jpg" group-title="Movies",AXN
+#EXTINF:-1 tvg-logo="https://s14.postimg.cc/obxi97bdt/axn-logo-vector-download-400x400.jpg" group-title="SaniMpd",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-name="304" tvg-id="THRILL.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="MOVIE",THRILL
+#EXTINF:-1 tvg-name="304" tvg-id="THRILL.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="SaniMpd",THRILL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-ID="HITS.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="MOVIE",HITS HD 
+#EXTINF:-1 tvg-ID="HITS.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="SaniMpd",HITS HD 
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="MOVIE",HITS MOVIES 
+#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="SaniMpd",HITS MOVIES 
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1 
-#EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="MOVIE",KIX - FHD 
+#EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="SaniMpd",KIX - FHD 
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-ID="FMN.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fmn.png" group-title="MOVIE",FMN 
+#EXTINF:-1 tvg-ID="FMN.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fmn.png" group-title="SaniMpd",FMN 
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1 
-#EXTINF:-1 tvg-name="305" tvg-id="TYP.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="MOVIE", CELESTIAL MOVIE 
+#EXTINF:-1 tvg-name="305" tvg-id="TYP.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="SaniMpd", CELESTIAL MOVIE 
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-logo="non" group-title="Other Movies",Movie Sphere
+#EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="non" group-title="Other Movies",Star Movies HD
+#EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="non" group-title="Other Movies",Sony Max HD
+#EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="non" group-title="Other Movies",Sony HD
+#EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Sony HD
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="non" group-title="Other Movies",24/7 Movies
+#EXTINF:-1 tvg-logo="non" group-title="SaniMpd",24/7 Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="non" group-title="Other Movies",BBO Movies
+#EXTINF:-1 tvg-logo="non" group-title="SaniMpd",BBO Movies
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
-#EXTINF:-1 tvg-logo="non" group-title="Other Movies",BBO Classic Movies
+#EXTINF:-1 tvg-logo="non" group-title="SaniMpd",BBO Classic Movies
 https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Malaysia", Rtm Sports
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="SaniMpd", Rtm Sports
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Malaysia", AssP1
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="SaniMpd", AssP1
 http://203.154.243.89:21201/nakhon
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Malaysia", AssP2
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="SaniMpd", AssP2
 http://203.154.243.89:21202/nakhon
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Malaysia", AssP3
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="SaniMpd", AssP3
 http://203.154.243.89:21203/nakhon
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Malaysia", AssP4
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="SaniMpd", AssP4
 http://203.154.243.89:21204/nakhon
 
