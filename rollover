@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg" url-tvg="https://bit.ly/aqfadtvepg" refresh="3600"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 
+#EXTINF:-1 tvg-id="astrosupersport4.my" group-title="Sports" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",ASTRO SUPERSPORT 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
+http://elemento.x10.mx/stream/assp4.mpd
 
 #EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="SaniMpd", Berita RTM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
