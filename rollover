@@ -1,9 +1,6 @@
 #EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg" url-tvg="https://bit.ly/aqfadtvepg" refresh="3600"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 
-#EXTINF:-1 group-title="🇲🇾 MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astrox Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-http://lnk.ec/astroria.m3u8
 
 #EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="SaniMpd", Berita RTM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -74,8 +71,10 @@ http://parlimenrakyatmobile.secureswiftcontent.com:443/Origin04/ngrp:RTM4/chunkl
 #EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/Bernama_zpsw0cqdb8c.png" group-title="SaniMpd", BERNAMA TV
 http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m70290ab09fb91755596&ct=18193&tsum=33695b93825ec6ec805a57c256daef32
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_100.png" group-title="SaniMpd", Al-Hijrah
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd#http://50.7.161.82:8278/Alhijrah/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1ce036f87781c57e1c2dcfc789ea5dc9
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_100.png" group-title="SaniMpd", Al-Hijrah ⁽ᴮᵃᶜᵏᵘᵖ⁾
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
+
+---http://50.7.161.82:8278/Alhijrah/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1ce036f87781c57e1c2dcfc789ea5dc9--
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
@@ -210,6 +209,11 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title=SaniMpd",Sony Pix 
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+
 #EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 
@@ -221,6 +225,18 @@ http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo="non" group-title="SaniMpd",24/7 Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="SaniMpd",Douyu Movies
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="SaniMpd",Movies X
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="SaniMpd",FilmRise Action
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
+
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="SaniMpd",Rakuten TV
+https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="non" group-title="SaniMpd",BBO Movies
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
