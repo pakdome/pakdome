@@ -18,7 +18,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="SaniMpd", TV3 HD
 https://mediahomes.github.io/assets/my/ch_tv3.m3u8
-# https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="SaniMpd", TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8#http://50.7.161.82:8278/TV9/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1abfbe474cf3087ad6958497748a0a7b
@@ -35,7 +35,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.mewatch.sg/blob/5180646/b04cd6919683462e1b8149b153d7a73e/suria-png-data.png" group-title="SaniMpd", TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8?PlayTV
 
-#EXTINF:-1 tvg-logo="non" group-title="SaniMpd", TV6
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png" group-title="SaniMpd", TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="SaniMpd", Astro Ceria
@@ -45,8 +45,7 @@ http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&t
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00378573028916844794&ct=18379&tsum=9900378928b8fa3fd19f87fbd03f4a1a
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="SaniMpd", Astro Warna
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m70290ab09fb91755596&ct=18078&tsum=40cd2f4a1d02c820fe6c44e2080c3e5f
-# http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra
 http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
@@ -498,3 +497,85 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
+RADIO
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="872" tvg-logo="https://traxxfm.rtm.gov.my/storage/app/uploads/public/610/366/ab7/610366ab7e7f2731499824.png",Traxx FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",Radio Klasik
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="875" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOASYIKFMLOGO170X96.png",Asyik FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahFM-New.jpg",Sabah FM
+https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/playlist.m3u8
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="VFM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahVFM-New.jpg",Sabah VFM
+https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="KENYALANG" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg",Sarawak FM
+https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/playlist.m3u8
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-chno=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/KOOL-FM_updated_2019_logo.png/150px-KOOL-FM_updated_2019_logo.png",Kool FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-chno=""tvg-logo="https://i1.sndcdn.com/avatars-000237691243-s63c6l-t240x240.jpg",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-chno=""tvg-logo="https://static.onefm.sg/uploads/sites/4/2018/08/ABOUT_US_Station_913-new.png",One FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
+https://mediaprima.rastream.com/mediaprima-molekfm
+ 
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
+https://astro1.rastream.com/hitz
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MyFM
+https://astro1.rastream.com/myfm
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
+https://astro2.rastream.com/mix
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
+https://astro2.rastream.com/era
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
+https://astro2.rastream.com/sinar
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
+https://astro3.rastream.com/melody
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="860" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png",Classic Rock
+https://astro4.rastream.com/rock
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="861" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png",Gold
+https://astro4.rastream.com/gold
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
+https://astro3.rastream.com/gegar
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="867" ch-number="867" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokBayu2021.png",Bayu
+https://astro4.rastream.com/bayu
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png/revision/latest?cb=20211107023416",ERA Sabah
+https://astro2.rastream.com/amp-era-kk
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png/revision/latest?cb=20211107023427",ERA Sarawak
+https://astro2.rastream.com/amp-era-kch
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hitz_Sabah_2018.png/revision/latest?cb=20211113030208",HITZ Sabah
+https://astro1.rastream.com/amp-hitz-kk
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Hitz_Sarawak_2018.png/revision/latest?cb=20211113030223",HITZ Sarawak
+https://astro1.rastream.com/amp-hitz-kch
+
+#EXTINF:-1 group-title="SaniRADIO" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MyFM Sabah
+https://astro1.rastream.com/amp-myfm-kk
