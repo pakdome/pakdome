@@ -1,6 +1,10 @@
-#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg" url-tvg="https://bit.ly/aqfadtvepg" refresh="3600"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
-
+#EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="SaniMpd", Berita RTM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
