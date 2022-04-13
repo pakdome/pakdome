@@ -657,7 +657,7 @@ https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782454
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782455
 #EXTINF: -1 tvg-name="Astro First- Hantu Mok Joh" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="SaniMovies", Astro First- Hantu Mok Joh
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782456
-#EXTINF: -1 tvg-name="Astro First- Marabahaya Underground" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="MOVIES", Astro First- Marabahaya Underground
+#EXTINF: -1 tvg-name="Astro First- Marabahaya Underground" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="SaniMovies", Astro First- Marabahaya Underground
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782457
 #EXTINF: -1 tvg-name="Astro First- Serangan Pocong" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="SaniMovies", Astro First- Serangan Pocong
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782458
@@ -673,8 +673,18 @@ https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782472
 #EXTINF: -1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="SaniMpd", &Prive HD
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782473
 #EXTINF: -1 tvg-id="STAR Movies HD" tvg-name="Star Movies (FHD)" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="SaniMpd", Star Movies (FHD)
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782474
-#EXTINF: -1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select (Testing)" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="MOVIES", Star Movie Select (Testing)
+http://103.55.144.46/hls/starmovies.m3u8
+#https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782474
+
+#EXTINF: -1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select (Testing)" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="SaniMpd", Star Movie Select (Testing)
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782475
 #EXTINF: -1 tvg-id="MNX HD" tvg-name="MNX HD (FHD)" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="SaniMpd", MNX HD (FHD)
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782477
+http://103.55.144.46/hls/mnx-hd.m3u8
+#https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782477
+
+#EXTINF:-1 group-title="SaniMpd",Movies Now
+http://103.55.144.46/hls/movies-now.m3u8
+
+#EXTINF:-1 group-title="SaniMpd",Stirr Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
