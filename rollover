@@ -80,7 +80,7 @@ http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=54899939&ct=18190&tsum=730b03822
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_100.png" group-title="SaniMpd", Naura
 http://50.7.161.82:8278/Naura/playlist.m3u8?tid=m70290ab09fb91755596&ct=17930&tsum=e115e9bed229026a824ecd614f147c75
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="SaniMpd", BOO ⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="SaniMpd", BOO
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="SaniMpd", CINEMAX HD
