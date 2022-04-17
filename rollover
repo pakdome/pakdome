@@ -21,7 +21,7 @@ https://mediahomes.github.io/assets/my/ch_tv3.m3u8
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="SaniMpd", TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8#http://50.7.161.82:8278/TV9/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1abfbe474cf3087ad6958497748a0a7b
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_100.png" group-title="SaniMpd", NTV7
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_100.png" group-title="SaniMpd", DidikTV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_100.png" group-title="SaniMpd", 8TV
@@ -525,8 +525,7 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
 #EXTINF:-1 tvg-id="AstroSuperSport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SaniMpd",Astro SuperSport HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
-http://linears-playback.astro.com.my/vsg/21_YiP04oA56TTwUKTsw9bZfMogOk6Y-Fa_QUcg0tJDdA=Ox-x/dash-wv/jitp-linearwm/601/default_ott.mpd
+http://elemento.x10.mx/stream/assp1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
