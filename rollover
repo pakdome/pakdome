@@ -254,7 +254,7 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title=SaniMpd",Sony Pix 
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title=SaniMpd",Sony Pix HD
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Star Movies HD
@@ -655,17 +655,17 @@ https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782461
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782472
 #EXTINF: -1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="SaniMpd", &Prive HD
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782473
-#EXTINF: -1 tvg-id="STAR Movies HD" tvg-name="Star Movies (FHD)" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="SaniMpd", Star Movies (FHD)
+#EXTINF: -1 tvg-id="STAR Movies HD" tvg-name="Star Movies (FHD)" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="SaniMpd", Star Movies HD
 http://103.55.144.46/hls/starmovies.m3u8
 #https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782474
 
 #EXTINF: -1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select (Testing)" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="SaniMpd", Star Movie Select (Testing)
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782475
-#EXTINF: -1 tvg-id="MNX HD" tvg-name="MNX HD (FHD)" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="SaniMpd", MNX HD (FHD)
+#EXTINF: -1 tvg-id="MNX HD" tvg-name="MNX HD (FHD)" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="SaniMpd", MNX HD
 http://103.55.144.46/hls/mnx-hd.m3u8
 #https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782477
 
-#EXTINF:-1 group-title="SaniMpd",Movies Now
+#EXTINF:-1 group-title="SaniMpd",Movies Now HD
 http://103.55.144.46/hls/movies-now.m3u8
 
 #EXTINF:-1 group-title="SaniMpd",Stirr Movies
