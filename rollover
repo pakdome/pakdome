@@ -258,10 +258,10 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+http://103.55.144.46/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Sony Max HD
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.55.144.46/hls/sony-maxhd.m3u8
 
 #EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Sony HD
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
@@ -651,22 +651,27 @@ https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782460
 #EXTINF: -1 tvg-name="Astro First -Penunggang Agama 2" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="SaniMovies", Astro First -Penunggang Agama 2
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782461
 
-#EXTINF: -1 tvg-id="&Flix HD" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="SaniMpd", &Flix HD
+#EXTINF: -1 tvg-id="And Flix HD" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="SaniMpd", &Flix HD
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782472
+
 #EXTINF: -1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="SaniMpd", &Prive HD
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782473
-#EXTINF: -1 tvg-id="STAR Movies HD" tvg-name="Star Movies (FHD)" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="SaniMpd", Star Movies HD
-http://103.55.144.46/hls/starmovies.m3u8
-#https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782474
 
-#EXTINF: -1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select (Testing)" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="SaniMpd", Star Movie Select (Testing)
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782475
-#EXTINF: -1 tvg-id="MNX HD" tvg-name="MNX HD (FHD)" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="SaniMpd", MNX HD
+#EXTINF: -1 tvg-id="STAR Movies HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="SaniMpd", Star Movies HD
+http://103.55.144.46/hls/starmovies.m3u8
+
+#EXTINF: -1 tvg-id="STAR World HD" tvg-name="Star World HD" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="SaniMpd", Star World HD
+http://103.55.144.46/hls/star-worldhd.m3u8
+
+#EXTINF: -1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="SaniMpd", MNX HD
 http://103.55.144.46/hls/mnx-hd.m3u8
-#https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782477
 
 #EXTINF:-1 group-title="SaniMpd",Movies Now HD
 http://103.55.144.46/hls/movies-now.m3u8
+
+#EXTINF:-1 group-title="SaniMpd",Utv Action
+http://103.55.144.46/hls/utvaction.m3u8
+#http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 
 #EXTINF:-1 group-title="SaniMpd",Stirr Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
