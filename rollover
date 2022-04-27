@@ -15,7 +15,8 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="SaniMpd", TV3 HD
-https://mediahomes.github.io/assets/my/ch_tv3.m3u8
+http://95.214.235.93:8880/trmall/trmall0308/1732
+#https://mediahomes.github.io/assets/my/ch_tv3.m3u8
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="SaniMpd", TV9
@@ -660,10 +661,10 @@ https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782460
 https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782461
 
 #EXTINF: -1 tvg-id="And Flix HD" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="SaniMpd", &Flix HD
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782472
+http://axcestv.vip:8080/live/freeview/axcestv/702.ts
 
 #EXTINF: -1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="SaniMpd", &Prive HD
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782473
+http://axcestv.vip:8080/live/freeview/axcestv/703.ts
 
 #EXTINF: -1 tvg-id="STAR Movies HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="SaniMpd", Star Movies HD
 http://103.55.144.46/hls/starmovies.m3u8
@@ -720,6 +721,7 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 
 #EXTINF:-1, ESPN
 https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
+
 #EXTINF:-1, ESPN 2
 https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
