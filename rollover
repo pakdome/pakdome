@@ -640,26 +640,6 @@ https://astro1.rastream.com/amp-hitz-kch
 #EXTINF:-1 group-title="SaniRADIO" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MyFM Sabah
 https://astro1.rastream.com/amp-myfm-kk
 
-
-Astro FIRST
-
-#EXTINF: -1 tvg-name="Astro First- Kg Pisang Berbuah Dua Kali" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="SaniMovies", Astro First- Kg Pisang Berbuah Dua Kali
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782454
-#EXTINF: -1 tvg-name="Astro First- Hantu Kuat Ketawa" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="SaniMovies", Astro First- Hantu Kuat Ketawa
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782455
-#EXTINF: -1 tvg-name="Astro First- Hantu Mok Joh" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="SaniMovies", Astro First- Hantu Mok Joh
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782456
-#EXTINF: -1 tvg-name="Astro First- Marabahaya Underground" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="SaniMovies", Astro First- Marabahaya Underground
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782457
-#EXTINF: -1 tvg-name="Astro First- Serangan Pocong" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="SaniMovies", Astro First- Serangan Pocong
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782458
-#EXTINF: -1 tvg-name="Astro First - Siapa Tutup Lampu?" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="SaniMovies", Astro First - Siapa Tutup Lampu?
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782459
-#EXTINF: -1 tvg-name="Astro First - Hantu Ke Lima" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="SaniMovies", Astro First - Hantu Ke Lima
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782460
-#EXTINF: -1 tvg-name="Astro First -Penunggang Agama 2" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="SaniMovies", Astro First -Penunggang Agama 2
-https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782461
-
 #EXTINF: -1 tvg-id="And Flix HD" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="SaniMpd", &Flix HD
 http://axcestv.vip:8080/live/freeview/axcestv/702.ts
 
@@ -710,19 +690,23 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:set_max_hd.smil/manifes
 #EXTINF:-1 tvg-ID="116" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="SaniMpd",COLORS HD
 https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors.smil/manifest.mpd
 
-#EXTINF:-1, Fox Sports Premium
+#EXTINF:-1 group-title="SaniMpd" , Fox Sports Premium
 https://delivery.cdn.rcs.net.ar/mnp/foxpremium/output.mpd
-#EXTINF:-1, Fox Sports 4K
+#EXTINF:-1 group-title="SaniMpd", Fox Sports 4K
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1, Fox Sports 2 4K
+#EXTINF:-1 group-title="SaniMpd" , Fox Sports 2 4K
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1, Fox Sports 3 4K
+#EXTINF:-1 group-title="SaniMpd" , Fox Sports 3 4K
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-#EXTINF:-1, ESPN
-https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
-
-#EXTINF:-1, ESPN 2
+#EXTINF:-1 group-title="SaniMpd",ESPN 1
 https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
+#EXTINF:-1 group-title="SaniMpd",ESPN 2
+https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
+#EXTINF:-1 group-title="SaniMpd",Bt Sports 1
+https://birutv.com/sport@birutv/live/bt1.m3u8
+
+#EXTINF:-1 group-title="SaniMpd",Bt Sports 2
+https://birutv.com/sport@birutv/live/bt1.m3u8
