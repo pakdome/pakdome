@@ -705,8 +705,35 @@ https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 #EXTINF:-1 group-title="SaniMpd",ESPN 2
 https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
-#EXTINF:-1 group-title="SaniMpd",Bt Sports 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20191227182531" group-title="SaniMpd",BT Sport 1 HD
 https://birutv.com/sport@birutv/live/bt1.m3u8
 
-#EXTINF:-1 group-title="SaniMpd",Bt Sports 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_2_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182617" group-title="SaniMpd",BT Sport 2 HD
 https://birutv.com/sport@birutv/live/bt2.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/BT_Sport_3_HD.svg/revision/latest/scale-to-width-down/199?cb=20191227182633" group-title="SaniMpd",BT Sports 3 HD
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SS2HD_Bronze.jpg/revision/latest/scale-to-width-down/220?cb=20170728110444" group-title="SaniMpd",Star Sports Select 2 HD
+http://103.55.144.46/hls/select2.m3u8
+
+#EXTINF:-1 group-title="SaniMpd",FilMax
+http://103.153.39.36:9981/stream/channelid/1856986425?profile=pass
+
+#EXTINF:-1 group-title="SaniMpd" tvg-logo="https://i.imgur.com/oUFytu7.png",B4U KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:-1 group-title="SaniMpd",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="SaniMpd",Movies Hub
+https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="SaniMpd" tvg-logo="exit",Dove TV
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+
+#EXTINF:-1 group-title="SaniMpd",My Time
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+
+
