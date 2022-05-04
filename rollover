@@ -735,5 +735,20 @@ https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:-1 group-title="SaniMpd",My Time
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="SaniMpd",Crackle
+http://crackle-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="SaniMpd",ZQ sport
+https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="SaniMpd",ZQ sportFB
+https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
+
+EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOID
+http://203.77.246.50:5000/udp/239.1.3.84:5000
+EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOFamsID
+http://203.77.246.50:5000/udp/239.1.3.76:5000
+EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOsignID
+http://203.77.246.50:5000/udp/239.1.3.74:5000
+EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBOgrup",HBOhitsID
+http://203.77.246.50:5000/udp/239.1.3.82:5000
