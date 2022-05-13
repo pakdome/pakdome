@@ -661,8 +661,8 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 http://103.55.144.46/hls/movies-now.m3u8
 
 #EXTINF:-1 group-title="SaniMpd",Utv Action
-http://103.55.144.46/hls/utvaction.m3u8
-#http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+#http://103.55.144.46/hls/utvaction.m3u8
 
 #EXTINF:-1 group-title="SaniMpd",Stirr Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
