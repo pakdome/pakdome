@@ -742,14 +742,16 @@ http://axcestv.vip:8080/freeview/axcestv/511
 #http://103.153.39.36:8000/play/a01d/index.m3u8
 
 #EXTINF: -1 tvg-id="STAR Movies HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="SaniMpd", Star Movies
-http://103.153.39.36:8000/play/a01j/index.m3u8
+http://182.176.149.106:9100/play/a05l
+#http://103.153.39.36:8000/play/a01j/index.m3u8
 
 #EXTINF: -1 tvg-id="STAR World HD" tvg-name="Star World HD" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="SaniMpd", Star World HD
 http://103.153.39.36:8000/play/a00a/index.m3u8
 #http://103.153.39.36:8000/play/a00b/index.m3u8
 
 #EXTINF: -1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="SaniMpd", MNX HD
-http://103.153.39.36:8000/play/a01h/index.m3u8
+http://182.176.149.106:9100/play/a071
+#http://103.153.39.36:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 group-title="SaniMpd",Movies Now HD
 http://103.153.39.36:8000/play/a01i/index.m3u8
@@ -802,15 +804,6 @@ https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SaniMpd",ZQ sportFB
 https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
-
-EXTINF:-1 tvg-id="" tvg-logo="" group-title="SaniMpd",HBOID
-http://203.77.246.50:5000/udp/239.1.3.84:5000
-EXTINF:-1 tvg-id="" tvg-logo="" group-title="SaniMpd",HBOFamsID
-http://203.77.246.50:5000/udp/239.1.3.76:5000
-EXTINF:-1 tvg-id="" tvg-logo="" group-title="SaniMpd",HBOsignID
-http://203.77.246.50:5000/udp/239.1.3.74:5000
-EXTINF:-1 tvg-id="" tvg-logo="" group-title="SaniMpd",HBOhitsID
-http://203.77.246.50:5000/udp/239.1.3.82:5000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="SaniMpd",Sony Pix
 https://bit.ly/3Hs-sonypix
