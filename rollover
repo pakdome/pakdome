@@ -80,7 +80,7 @@ http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsu
 https://tv.kpsvpn.com/ria.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="SaniMpd", Astro Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
-http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00378573028916844794&ct=18379&tsum=9900378928b8fa3fd19f87fbd03f4a1a
+http://50.7.220.74:8278/Ria/playlist.m3u8?tid=m02000000000016577258&ct=17958&tsum=538739a0520a004cfcf115fef17fe8cc
 #https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782407
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="SaniMpd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna HD
@@ -89,7 +89,7 @@ http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m00378573028916844794&ct=18379&tsu
 https://tv.kpsvpn.com/warna.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="SaniMpd", Astro Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+http://50.7.220.74:8278/Warna/playlist.m3u8?tid=m02000000000017487628&ct=17958&tsum=e9dc2c41615aa9b33c04bd71cfc005c9
 #https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782409
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="SaniMpd" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
@@ -98,7 +98,7 @@ http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&t
 https://tv.kpsvpn.com/citra.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
 #https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782413
 
 #EXTINF:-1 tvg-id="" tvg-chno="122" tvg-name="Astro Aura" radio="false" catchup="default" group-title="SaniMpd" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", Astro Aura HD
