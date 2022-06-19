@@ -20,7 +20,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 http://axcestv.vip:8080/live/freeview/axcestv/626.ts
 
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="SaniMpd", TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8#http://50.7.161.82:8278/TV9/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1abfbe474cf3087ad6958497748a0a7b
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+#http://50.7.161.82:8278/TV9/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1abfbe474cf3087ad6958497748a0a7b
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_100.png" group-title="SaniMpd", DidikTV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
@@ -36,6 +37,9 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8?PlayTV
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png" group-title="SaniMpd", TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="SaniMpd",DRAMA SANGAT
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="SaniMpd" tvg-id="" tvg-name="",AWESOME TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -85,8 +89,9 @@ http://50.7.220.74:8278/Ria/playlist.m3u8?tid=m02000000000016577258&ct=17958&tsu
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="SaniMpd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://tv.kpsvpn.com/warna.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+https://Astro.kpsboyserver.com/AstroWarna.mpd
+#https://tv.kpsvpn.com/warna.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="SaniMpd", Astro Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://50.7.220.74:8278/Warna/playlist.m3u8?tid=m02000000000017487628&ct=17958&tsum=e9dc2c41615aa9b33c04bd71cfc005c9
@@ -95,7 +100,8 @@ http://50.7.220.74:8278/Warna/playlist.m3u8?tid=m02000000000017487628&ct=17958&t
 #EXTINF:-1 tvg-id="AstroCitra" group-title="SaniMpd" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-https://tv.kpsvpn.com/citra.mpd
+https://Astro.kpsboyserver.com/AstroCitra.mpd
+#https://tv.kpsvpn.com/citra.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
@@ -185,6 +191,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
 #EXTINF:-1 tvg-logo="non" group-title="SaniMpd",ABO Movies Thangathirai
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
+#EXTINF:-1 tvg-id="116" ch-number="ColorsHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="SaniMpd",Colors HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=505f7a8803b542e78941a6bfe40d2910&key=166626a62cf1b356c298b58842c60661
@@ -762,7 +773,7 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:set_max_hd.smil/manifes
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-ID="116" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="SaniMpd",COLORS HD
+#EXTINF:-1 tvg-ID="116" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="SaniMpd",COLORS HD (INDIA)
 https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
