@@ -12,9 +12,11 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="SaniMpd",TV3 Unifi
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="SaniMpd", TV3 HD
 http://quality-restream.com:8080/live/rhaddaoui90/58b4b54325/158360.m3u8
