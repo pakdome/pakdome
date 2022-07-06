@@ -321,8 +321,7 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Star Movies HD
-http://axcestv.vip:8080/freeview/axcestv/512
-#http://103.55.144.46/hls/starmovies.m3u8
+http://103.55.144.46/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Sony Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
@@ -794,7 +793,7 @@ http://axcestv.vip:8080/freeview/axcestv/511
 #http://103.153.39.36:8000/play/a01d/index.m3u8
 
 #EXTINF: -1 tvg-id="STAR Movies HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="SaniMpd", Star Movies
-http://182.176.149.106:9100/play/a05l
+http://103.55.144.46/hls/starmovies.m3u8
 #http://103.153.39.36:8000/play/a01j/index.m3u8
 
 #EXTINF: -1 tvg-id="STAR World HD" tvg-name="Star World HD" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="SaniMpd", Star World HD
@@ -802,11 +801,11 @@ http://103.153.39.36:8000/play/a00a/index.m3u8
 #http://103.153.39.36:8000/play/a00b/index.m3u8
 
 #EXTINF: -1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="SaniMpd", MNX HD
-http://182.176.149.106:9100/play/a071
+http://103.55.144.46/hls/mnx-hd.m3u8
 #http://103.153.39.36:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 group-title="SaniMpd",Movies Now HD
-http://103.153.39.36:8000/play/a01i/index.m3u8
+http://103.55.144.46/hls/movies-now.m3u8
 
 #EXTINF:-1 group-title="SaniMpd",Utv Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
@@ -865,6 +864,7 @@ https://bit.ly/3Hs-sonypix
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="SaniMpd",MN Plus
 http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
+http://103.55.144.46/hls/mn+.m3u8
 
 #EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-chno="54" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="SaniMpd",PLUTO TV ACTION
 Http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
