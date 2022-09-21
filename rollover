@@ -215,7 +215,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1007
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_6-ysjWjXqYipIFqdqsPQyKorXS-SDgvmJw&usqp=CAU" group-title="SaniMpd",BollyOne HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 #https://links.aqfadtv.xyz/bollyone.mpd
