@@ -114,7 +114,8 @@ https://aqfadtv.xyz/warna.m3u8
 #https://tv.kpsvpn.com/warna.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="SaniMpd", Astro Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-http://50.7.220.74:8278/Warna/playlist.m3u8?tid=m02000000000017487628&ct=17958&tsum=e9dc2c41615aa9b33c04bd71cfc005c9
+https://stream.zeehanzgadget.com/warna
+#http://50.7.220.74:8278/Warna/playlist.m3u8?tid=m02000000000017487628&ct=17958&tsum=e9dc2c41615aa9b33c04bd71cfc005c9
 #https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782409
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="SaniMpd" ch-number="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
