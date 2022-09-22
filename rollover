@@ -127,7 +127,8 @@ https://stream.zeehanzgadget.com/citra
 #https://tv.kpsvpn.com/citra.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾
-http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
+https://stream.zeehanzgadget.com/citra
+#http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
 #https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782413
 
 #EXTINF:-1 tvg-id="" tvg-chno="122" tvg-name="Astro Aura" radio="false" catchup="default" group-title="SaniMpd" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", Astro Aura HD
