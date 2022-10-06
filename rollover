@@ -107,14 +107,16 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #EXTINF:-1 tvg-id="AstroWarna" group-title="SaniMpd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-https://aqfadtv.xyz/warna.m3u8
+https://stream.zeehanzgadget.com/warna.mpd
+#https://aqfadtv.xyz/warna.m3u8
 #https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 #https://stream.zeehanzgadget.com/warna.mpd
 #http://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9GxnIPfz3kBCLz0CcMf0SN0=GHd6/dash-wv/jitp-linearwm/2402/default_primary.mpd
 #https://tv.kpsvpn.com/warna.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="SaniMpd", Astro Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
-https://stream.zeehanzgadget.com/warna
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+#https://stream.zeehanzgadget.com/warna
 #http://50.7.220.74:8278/Warna/playlist.m3u8?tid=m02000000000017487628&ct=17958&tsum=e9dc2c41615aa9b33c04bd71cfc005c9
 #https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782409
 
