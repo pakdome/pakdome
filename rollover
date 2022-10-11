@@ -107,7 +107,8 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #EXTINF:-1 tvg-id="AstroWarna" group-title="SaniMpd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21067
+https://aqfadtv.xyz/live/warna/index.mpd
+#http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21067
 #https://linears-playback.astro.com.my/vsg/21Znx8prhTUo2IeOQFBJF0Z4shAfYiC4duBu62luBB_GI=zXLH/dash-wv/jitp-linearwm/2402/default_ott.mpd
 #https://aqfadtv.xyz/warna.m3u8
 #https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
