@@ -820,7 +820,7 @@ https://astro1.rastream.com/amp-hitz-kch
 https://astro1.rastream.com/amp-myfm-kk
 
 #EXTINF: -1 tvg-id="And Flix HD" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="SaniMpd", &Flix HD
-http://103.153.39.36:8000/play/a00p/index.m3u8
+http://103.153.39.36:800/play/a00p/index.m3u8
 
 #EXTINF: -1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="SaniMpd", &Prive HD
 http://axcestv.vip:8080/freeview/axcestv/511
