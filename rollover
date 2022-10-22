@@ -247,6 +247,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
 #EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" group-title="SaniMpd" tvg-logo="https://iili.io/1NBdJ9.png",Colors Tamil HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/sonyinfinity.png" group-title="SaniMpd",COLORS INFINITY 
+https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors_infinity_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d00a8536425163d5274fdf086001e110&key=7261ce40695be3526cf0e8e224546723
+#EXTINF:-1 tvg-id="ZeeTamilHD" ch-number="223" group-title="SaniMpd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",Zee Tamil HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+
 $EXTINF:-1 tvg-id="301" tvg-logo="https://i.ibb.co/kDYcMsQ/20200709194934030p1r.png" group-title=SaniMpd",Yupp Thirai
 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
 http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
@@ -580,24 +590,24 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="SaniMpd" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",812 Astro SuperSport 2 HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
-#https://aqfadtv.xyz/supersport2.m3u8
+#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
+https://aqfadtv.xyz/supersport2.m3u8
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="SaniMpd" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro SuperSport 3 HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
-#https://aqfadtv.xyz/supersport3.m3u8
+#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
+https://aqfadtv.xyz/supersport3.m3u8
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/411aAdpUORq1ipLVthkITKe7wEdh7NWeJkFmW_tmV31Yk=A_Lm/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="SaniMpd" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astro SuperSport 4 HD AstGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
-#https://aqfadtv.xyz/supersport4.m3u8
+#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+https://aqfadtv.xyz/supersport4.m3u8
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41UfpQ6-vWB66ZAp5DuLe4eZmVNDShNSPuVdJtH3X6-hE=amAG/dash-wv/jitp-linearwm/2506/default_primary.mpd
 
