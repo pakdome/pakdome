@@ -261,16 +261,16 @@ $EXTINF:-1 tvg-id="301" tvg-logo="https://i.ibb.co/kDYcMsQ/20200709194934030p1r.
 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
 http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png" group-title="SaniMpd", MyCINEMA
+$EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/f459bf66a176547908a96e42bfd3d083.png" group-title="SaniMpd", MyCINEMA
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/9e843ca869da26a06b7bddee5130a6db.png" group-title="SaniMpd", MyCINEMA ASIA
+$EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/9e843ca869da26a06b7bddee5130a6db.png" group-title="SaniMpd", MyCINEMA ASIA
 http://210.210.155.37/uq2663/h/h193/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/6a4670d01e328b6ca20cf1a7a3aeb773.png" group-title="SaniMpd", MyCINEMA FAMILY
+$EXTINF:-1 tvg-logo="http://play.kobar.online:8080/images/6a4670d01e328b6ca20cf1a7a3aeb773.png" group-title="SaniMpd", MyCINEMA FAMILY
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="SaniMpd", MyCINEMA EUROPE
+$EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="SaniMpd", MyCINEMA EUROPE
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
