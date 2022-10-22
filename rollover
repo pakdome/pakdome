@@ -1037,3 +1037,7 @@ http://caspertv.live/play/live.php?mac=00:1A:79:6F:A4:34&stream=178807&extension
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="MN+.in" tvg-logo="" group-title="SaniMpd",MN+
 http://caspertv.live/play/live.php?mac=00:1A:79:6F:A4:34&stream=178809&extension=ts&play_token=DNCNsZr55Y
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
+#EXTINF:-1 group-title="SaniMpd" tvg-id="128" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
