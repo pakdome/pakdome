@@ -1012,3 +1012,15 @@ https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="SaniMpd" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s=s360",Loupe          
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#EXTINF:-1 tvg-id="MovieNow.in" tvg-logo="" group-title="SaniMpd",Movie Now
+http://caspertv.live/play/live.php?mac=00:1A:79:6F:A4:34&stream=178808&extension=ts&play_token=DNCNsZr55Y
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#EXTINF:-1 tvg-id="MNX.in" tvg-logo="" group-title="SaniMpd",MNX
+http://caspertv.live/play/live.php?mac=00:1A:79:6F:A4:34&stream=178807&extension=ts&play_token=DNCNsZr55Y
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#EXTINF:-1 tvg-id="MN+.in" tvg-logo="" group-title="SaniMpd",MN+
+http://caspertv.live/play/live.php?mac=00:1A:79:6F:A4:34&stream=178809&extension=ts&play_token=DNCNsZr55Y
