@@ -164,7 +164,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 $KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb-hypptv-8064.astradamy.com/deviceId/tvalhijrah/
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_100.png" group-title="SaniMpd", Al-Hijrah ⁽ᴮᵃᶜᵏᵘᵖ⁾
+$EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_100.png" group-title="SaniMpd", Al-Hijrah ⁽ᴮᵃᶜᵏᵘᵖ⁾
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 #http://50.7.161.82:8278/Alhijrah/playlist.m3u8?tid=m70290ab09fb91755596&ct=18008&tsum=1ce036f87781c57e1c2dcfc789ea5dc9
 
@@ -366,7 +366,7 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:set_max_hd.smil/manifes
 #EXTINF:-1 tvg-id="SonySab.in" tvg-logo="http://live.flixhub.net/img/sonysabhd.jpg" tvg-id="" tvg-name="" group-title=SaniMpd",Sony Sab HD
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Star Movies HD
+$EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Star Movies HD
 https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142744
 
 $EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Sony Max HD
@@ -430,9 +430,9 @@ https://stream-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 #EXTINF:-1 tvg-id="ZEETV.ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeetv.png" group-title="SaniMpd",Zee TV HD
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+$KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="ZEECINEMA.ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="SaniMpd",Zee Cinema HD
+$EXTINF:-1 tvg-id="ZEECINEMA.ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="SaniMpd",Zee Cinema HD
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="SaniMpd",Bflix Movies
@@ -584,6 +584,16 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
+#EXTINF:-1 tvg-id="801" ch-number="801" group-title="SaniMpd" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",Astro Arena HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+
+#EXTINF:-1 tvg-id="802" ch-number="802" group-title="SaniMpd" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",Astro Arena 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
 #EXTINF:-1 tvg-id="AstroUHD" ch-number="780" group-title="SaniMpd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",780 Astro UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1602/
@@ -706,16 +716,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png" group-title="SaniMpd",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-
-#EXTINF:-1 tvg-id="801" ch-number="801" group-title="SaniMpd" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",Astro Arena HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-
-#EXTINF:-1 tvg-id="802" ch-number="802" group-title="SaniMpd" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",Astro Arena 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
@@ -871,19 +871,19 @@ http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF:-1 group-title="SaniMpd",Stirr Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+$KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://images.toffeelive.com/images/program/641/logo/115x115/mobile_logo_602468001571288709.png" group-title="SaniMpd",SONY MAX HD
+$EXTINF:-1 tvg-ID="CHN" tvg-logo="https://images.toffeelive.com/images/program/641/logo/115x115/mobile_logo_602468001571288709.png" group-title="SaniMpd",SONY MAX HD
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:set_max_hd.smil/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+$KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-ID="116" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="SaniMpd",COLORS HD (INDIA)
+$EXTINF:-1 tvg-ID="116" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="SaniMpd",COLORS HD (INDIA)
 https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors.smil/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+$KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://images.toffeelive.com/images/program/2428/logo/240x240/mobile_logo_637416001609414006.png" group-title="SaniMpd",COLORS INFINITY
+$EXTINF:-1 tvg-ID="CHN" tvg-logo="https://images.toffeelive.com/images/program/2428/logo/240x240/mobile_logo_637416001609414006.png" group-title="SaniMpd",COLORS INFINITY
 https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors_infinity_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 3: rush (1080p).png" group-title="SaniMpd",Redbox 3: Rush
@@ -910,13 +910,13 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SaniMpd",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="SaniMpd",ZQ sport
+$EXTINF:-1 group-title="SaniMpd",ZQ sport
 https://cdn.underfront.org/zqsport/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SaniMpd",ZQ sportFB
+#$EXTINF:-1 group-title="SaniMpd",ZQ sportFB
 https://cdn.underfront.org/zqfb/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="SaniMpd",Sony Pix
+$EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="SaniMpd",Sony Pix
 https://bit.ly/3Hs-sonypix
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="SaniMpd",MN Plus
