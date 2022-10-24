@@ -8,5 +8,17 @@ https://858142481.tapecontent.net/radosgw/adA3184aWXUxk3v/_JB7KMQ2Aa-JnqML1e3DC3
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ4OGJiMWEtNTZjNi00NmU1LTk4NmMtZDY0MTZmNzFlNDFhXkEyXkFqcGdeQXVyMTQyMTMwOTk0._UX185_CR0,0,185,263_.jpg" group-title="SaniVod" tvg-id="" tvg-name="", Top Gun : Maverick (2022)
 https://is.gd/zkTZUr
 
-#EXTINF:-1 type="SaniVod" group-title="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_.jpg", Mat Kilau 2022
+#EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_.jpg", Mat Kilau 2022
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Mat.Kilau.2022.NF.WEBDL.1080p.MSA.EAC3.H.264-AstradaMY.mkv
+
+#EXTINF:-1 group-title="SaniVod" tvg-logo="https://img.cineb.net/xxrz/250x400/188/0f/63/0f631f32c8071ef014c80af0118b5c40/0f631f32c8071ef014c80af0118b5c40.jpg",Hotel Transylvania: Transformania (2022)
+https://tv4.live/api/stream/citi/citi/movie/tt9848626
+
+#EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.png",Shang-Chi and the Legend of the Ten Rings
+https://onedrive.astradamy.com/api?path=/Movies/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.BrRip-ms.en-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/TheBatman.png",The Batman (FHD)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Batman.2022/The.Batman.2022.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-CMRG%5BTGx%5D.mkv
+
+#EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/Renjana.png",Renjana
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Renjana.2022.1080p.AOD.WEB-DL.AAC.H.264-%40cap.mp4
