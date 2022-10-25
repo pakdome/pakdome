@@ -22,3 +22,15 @@ https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Batman.2022/The.Batman.
 
 #EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/Renjana.png",Renjana
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Renjana.2022.1080p.AOD.WEB-DL.AAC.H.264-%40cap.mp4
+
+#EXTINF:-1 group-title="SaniVod" type="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE2ODVmNGMtOGI3Zi00ODNjLTg5ZmUtNzAxNjQ4M2FjNzlkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",The Man From Toronto
+https://watchman98.vercel.app/api/raw/?path=/MOVIE/The.Man.from.Toronto.2022.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
+
+#EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/NoTimeToDie.png",No Time to Die
+https://onedrive.astradamy.com/api?path=/Movies/No.Time.to.Die.2021/No.Time.to.Die.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ0MTE0NmMtYmZiOC00MTBiLWFhZmUtNDM5YTRhYTNkNWIwXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",Serigala Langit
+https://watchman98.vercel.app/api/raw/?path=/MOVIE/%5BDutafilm%5D-Serigala-Langit-(2021)-%5B720p%5D.mp4
+
+#EXTINF:-1 group-title="SaniVod" type="" tvg-logo="https://aqfadtv.astradamy.com/images/GilaGusti.png",Gila Gusti
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Gila.Gusti.2022.1080pWEBDL.NOGRP.mkv
