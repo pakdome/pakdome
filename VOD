@@ -57,3 +57,5 @@ https://watchman98.vercel.app/api/raw/?path=/MOVIE/Steel%20Rain%202%202020%20Kor
 #EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZkNzM0MDItZGQ0Zi00N2MzLTlhM2MtNjJlMTczZDBkNWUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg", Minions:The Rise of Gru 2022 (1080p)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Minions.The.Rise.of.Gru.2022/Minions.The.Rise.of.Gru.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO%5BTGx%5D.mkv
 
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWJmNzRiMWEtNzk3Ni00OGU5LThlMDctYmJhMTA1YzEzNjY4XkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_.jpg" group-title="SaniVod",Hotel Transylvania: Transformania
+https://www.googleapis.com/drive/v3/files/15d2G9AqhvG_OwR35w7MPlkkm7EqVd3iK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
