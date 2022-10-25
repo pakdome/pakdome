@@ -39,6 +39,9 @@ https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Gila.Gusti.2022.1080pWEBD
 #EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLgs-UqnUrUOWBWhKE4H9T4uu9l6YYDKl667MSZWdY_jvIVbL_c24W5KvW-FVVobDLQI29LU6MofmU4Aa2RHlscy04D3853v5rAO6sls4_hGQqT-MZAARL3YEjhJMV3Vch8ziKK794Tw4IPlW3m5uXhBAf2EQRnwhmSCh4mCC7VydLvoNTW694-0Rt0w/w0/35mm.jpg",35mm
 https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/35mm.2022.1080p.WEB-DL.mkv
 
+EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://tinyurl.com/229mpwe2",MAKMUM 2
+https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Makmum2.2021.1080p.WEB-DL.H264.AqFadTV.mp4
+
 #EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhlODllYzItNzJkYy00YzM1LWFlMzEtYWZlYjhiNjUxMTYyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Kampong Pisang Berbuah Dua Kali
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Kampong%20Pisang%20Berbuah%20Dua%20Kali%20(2022)%201080p%20WEBDL-MARX.mkv
 
@@ -51,4 +54,6 @@ https://watchman98.vercel.app/api/raw/?path=/MOVIE/Steel%20Rain%202017%20Korean%
 #EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://i.mydramalist.com/0doVK_4f.jpg",Steel Rain 2
 https://watchman98.vercel.app/api/raw/?path=/MOVIE/Steel%20Rain%202%202020%20Korean%201080p%20BluRay%20HEVC%20x265%205.1%20BONE.mkv
 
+#EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZkNzM0MDItZGQ0Zi00N2MzLTlhM2MtNjJlMTczZDBkNWUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg", Minions:The Rise of Gru 2022 (1080p)
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Minions.The.Rise.of.Gru.2022/Minions.The.Rise.of.Gru.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-EVO%5BTGx%5D.mkv
 
