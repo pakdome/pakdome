@@ -41,3 +41,14 @@ https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/35mm.2022.1080p.WEB-DL.mkv
 
 #EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhlODllYzItNzJkYy00YzM1LWFlMzEtYWZlYjhiNjUxMTYyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Kampong Pisang Berbuah Dua Kali
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Kampong%20Pisang%20Berbuah%20Dua%20Kali%20(2022)%201080p%20WEBDL-MARX.mkv
+
+#EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://amayei.nyc3.digitaloceanspaces.com/2022/05/F603F261-57DA-4254-B96D-C3D72A8B535F.jpeg",Doctor strange in the multiverse of madness (2022)
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Doctor.Strange.in.the.Multiverse.of.Madness.2022.WEB-DL.H264.AqFadTV.mp4
+
+#EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU4NmQ5ZDEtZGU1MC00OTdiLWI1MWEtMTMzOGFiNjFkNTViXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",Steel Rain
+https://watchman98.vercel.app/api/raw/?path=/MOVIE/Steel%20Rain%202017%20Korean%201080p%20BluRay%20HEVC%20x265%205.1%20BONE.mkv
+
+#EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://i.mydramalist.com/0doVK_4f.jpg",Steel Rain 2
+https://watchman98.vercel.app/api/raw/?path=/MOVIE/Steel%20Rain%202%202020%20Korean%201080p%20BluRay%20HEVC%20x265%205.1%20BONE.mkv
+
+
