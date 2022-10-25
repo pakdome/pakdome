@@ -1,36 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i0.wp.com/ecx.images-amazon.com/images/M/MV5BNWRiNTg0YjYtMTBkOC00YjZlLWExYTYtNWEzYzdhMjJhODllXkEyXkFqcGdeQXVyMTQyMTMwOTk0._UX185_.jpg?fit=185,185&quality=50&strip=all" group-title="SaniVod" tvg-id="" tvg-name="", Thor: Love And Thunder (2022)
+
+#EXTINF:-1 type="layanz" tvg-logo="https://i0.wp.com/ecx.images-amazon.com/images/M/MV5BNWRiNTg0YjYtMTBkOC00YjZlLWExYTYtNWEzYzdhMjJhODllXkEyXkFqcGdeQXVyMTQyMTMwOTk0._UX185_.jpg?fit=185,185&quality=50&strip=all" group-title="SaniVod" tvg-id="" tvg-name="", Thor: Love And Thunder (2022)
 https://stream07.emeskyu.workers.dev/0:/Thor.Love.And.Thunder.2022.V2.720p.HDTS.x264.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQyODUwM2MtNzA0YS00ZjdmLTgzMjItZWRjN2YyYWE5ZTNjXkEyXkFqcGdeQXVyMTI2MzY1MjM1._UX185_CR0,0,185,263_.jpg" group-title="SaniVod" tvg-id="" tvg-name="", CEROBOH (2022
+#EXTINF:-1 type="layanz" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQyODUwM2MtNzA0YS00ZjdmLTgzMjItZWRjN2YyYWE5ZTNjXkEyXkFqcGdeQXVyMTI2MzY1MjM1._UX185_CR0,0,185,263_.jpg" group-title="SaniVod" tvg-id="" tvg-name="", CEROBOH (2022
 https://858142481.tapecontent.net/radosgw/adA3184aWXUxk3v/_JB7KMQ2Aa-JnqML1e3DC307rghwF99LpZBGFg6_X9ZadLrRApXe-ADY85SR9m85eypi1SxZw0B6Q54_7rv2iyL4XLDJlKuiEljDa-VVTEO3T--c4GRH9WwPyGha3mG1TV5GopxLBjyXSsEKUTv29Ogtb_KifzrfQnhD0wZTeXmGaEmmcuPQRE_jkh4rr232-qzs10BHUQQzBQI5VklMpDn8Mk5L6cI5frAg_Rxw1TBGAQ_-xuoqr2WUs6_835kF8nrod61ooHaNKsoopd_zDkJ8IJ3v1o4plwU9f8WZgT6vAT9Z9wUDlxSTOl0/Ceroboh+%282022%29+1080p+WEB+malaysub.mp4?stream=1
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ4OGJiMWEtNTZjNi00NmU1LTk4NmMtZDY0MTZmNzFlNDFhXkEyXkFqcGdeQXVyMTQyMTMwOTk0._UX185_CR0,0,185,263_.jpg" group-title="SaniVod" tvg-id="" tvg-name="", Top Gun : Maverick (2022)
+#EXTINF:-1 type="layanz" tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ4OGJiMWEtNTZjNi00NmU1LTk4NmMtZDY0MTZmNzFlNDFhXkEyXkFqcGdeQXVyMTQyMTMwOTk0._UX185_CR0,0,185,263_.jpg" group-title="SaniVod" tvg-id="" tvg-name="", Top Gun : Maverick (2022)
 https://is.gd/zkTZUr
 
-#EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_.jpg", Mat Kilau 2022
+#EXTINF:-1 type="layanz" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_.jpg", Mat Kilau 2022
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Mat.Kilau.2022.NF.WEBDL.1080p.MSA.EAC3.H.264-AstradaMY.mkv
 
-#EXTINF:-1 group-title="SaniVod" tvg-logo="https://img.cineb.net/xxrz/250x400/188/0f/63/0f631f32c8071ef014c80af0118b5c40/0f631f32c8071ef014c80af0118b5c40.jpg",Hotel Transylvania: Transformania (2022)
+#EXTINF:-1 type="layanz" group-title="SaniVod" tvg-logo="https://img.cineb.net/xxrz/250x400/188/0f/63/0f631f32c8071ef014c80af0118b5c40/0f631f32c8071ef014c80af0118b5c40.jpg",Hotel Transylvania: Transformania (2022)
 https://tv4.live/api/stream/citi/citi/movie/tt9848626
 
-#EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.png",Shang-Chi and the Legend of the Ten Rings
+#EXTINF:-1 type="layanz" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.png",Shang-Chi and the Legend of the Ten Rings
 https://onedrive.astradamy.com/api?path=/Movies/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.BrRip-ms.en-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
 
-#EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/TheBatman.png",The Batman (FHD)
+#EXTINF:-1 type="layanz" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/TheBatman.png",The Batman (FHD)
 https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Batman.2022/The.Batman.2022.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-CMRG%5BTGx%5D.mkv
 
-#EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/Renjana.png",Renjana
+#EXTINF:-1 type="layanz" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/Renjana.png",Renjana
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Renjana.2022.1080p.AOD.WEB-DL.AAC.H.264-%40cap.mp4
 
-#EXTINF:-1 group-title="SaniVod" type="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE2ODVmNGMtOGI3Zi00ODNjLTg5ZmUtNzAxNjQ4M2FjNzlkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",The Man From Toronto
+#EXTINF:-1 group-title="SaniVod" type="layanz" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE2ODVmNGMtOGI3Zi00ODNjLTg5ZmUtNzAxNjQ4M2FjNzlkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",The Man From Toronto
 https://watchman98.vercel.app/api/raw/?path=/MOVIE/The.Man.from.Toronto.2022.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
 
-#EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/NoTimeToDie.png",No Time to Die
+#EXTINF:-1 type="layanz" group-title="SaniVod" tvg-logo="https://aqfadtv.astradamy.com/images/NoTimeToDie.png",No Time to Die
 https://onedrive.astradamy.com/api?path=/Movies/No.Time.to.Die.2021/No.Time.to.Die.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
 
-#EXTINF:-1 type="" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ0MTE0NmMtYmZiOC00MTBiLWFhZmUtNDM5YTRhYTNkNWIwXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",Serigala Langit
+#EXTINF:-1 type="layanz" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ0MTE0NmMtYmZiOC00MTBiLWFhZmUtNDM5YTRhYTNkNWIwXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",Serigala Langit
 https://watchman98.vercel.app/api/raw/?path=/MOVIE/%5BDutafilm%5D-Serigala-Langit-(2021)-%5B720p%5D.mp4
 
-#EXTINF:-1 group-title="SaniVod" type="" tvg-logo="https://aqfadtv.astradamy.com/images/GilaGusti.png",Gila Gusti
+#EXTINF:-1 group-title="SaniVod" type="layanz" tvg-logo="https://aqfadtv.astradamy.com/images/GilaGusti.png",Gila Gusti
 https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Gila.Gusti.2022.1080pWEBDL.NOGRP.mkv
+
+#EXTINF:-1 type="layanz" group-title="SaniVod" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLgs-UqnUrUOWBWhKE4H9T4uu9l6YYDKl667MSZWdY_jvIVbL_c24W5KvW-FVVobDLQI29LU6MofmU4Aa2RHlscy04D3853v5rAO6sls4_hGQqT-MZAARL3YEjhJMV3Vch8ziKK794Tw4IPlW3m5uXhBAf2EQRnwhmSCh4mCC7VydLvoNTW694-0Rt0w/w0/35mm.jpg",35mm
+https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/35mm.2022.1080p.WEB-DL.mkv
+
+#EXTINF:-1 type="layanz" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhlODllYzItNzJkYy00YzM1LWFlMzEtYWZlYjhiNjUxMTYyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Kampong Pisang Berbuah Dua Kali
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Kampong%20Pisang%20Berbuah%20Dua%20Kali%20(2022)%201080p%20WEBDL-MARX.mkv
