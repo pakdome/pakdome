@@ -63,7 +63,7 @@ https://www.googleapis.com/drive/v3/files/15d2G9AqhvG_OwR35w7MPlkkm7EqVd3iK?alt=
 #EXTINF:-1 tvg-name="" tvg-logo="" type="movie" group-title="SaniVod",Changkul(2022)
 http://18.136.148.247:18904/KpsboyTV/Movie/Malaysia.Only/%5bKpsboyTV%5d-Changkul-HDrip.2022.mkv
 
-#EXTINF:-1 tvg-name="" tvg-logo="" type="movie" group-title="SaniVod",Rajawali(2022)
+#EXTINF:-1 type="movie" group-title="SaniVod",Rajawali(2022)
 http://18.136.148.247:18904/KpsboyTV/Movie/Malaysia.Only/%5bKpsboyTV%5d-Rajawali.HDRip.2022.mkv
 
 
