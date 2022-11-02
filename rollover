@@ -949,7 +949,7 @@ http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Andprive.png" group-title="SaniMpd", And Flix
 https://makanja.xyz/zee/zee/zee.php?c=0-9-channel_2105335046
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Andprive.png" group-title="SaniMpd",And Prive
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Andprive.png" group-title="SaniMpd",And Prive
 https://makanja.xyz/zee/zee/zee.php?c=0-9-priv?hd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="SaniMpd",MN Plus
