@@ -156,13 +156,12 @@ http://parlimenrakyatmobile.secureswiftcontent.com:443/Origin04/ngrp:RTM4/chunkl
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09891197fd467008f73b1fe18bfed710:fa752673e5da5541a796569371788dea
-#EXTINF:-1 tvg-id="501" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="SaniMpd",AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+#EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="SaniMpd", ASTRO AWANI
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=aa3ffd5b0ad254ca7b23c85c240f4910&key=c17b80d133522c555b4c10ad6a142750
-#EXTINF:-1 tvg-id="502" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="SaniMpd",BERNAMA
+#KODIPROP:inputstream.adaptive.license_key=aa3ffd5b0ad254ca7b23c85c240f4910:c17b80d133522c555b4c10ad6a142750
+#EXTINF:-1 tvg-id="502" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="SaniMpd", BERNAMA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 $KODIPROP:inputstream.adaptive.license_type=clearkey
