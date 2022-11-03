@@ -423,38 +423,49 @@ http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 
 ================================ADDON MUBEE=================================--------
 
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/12/ueNbxy.jpg" group-title="SaniMpd", FWMOV
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/12/ueNbxy.jpg" group-title="MUBEE++", FWMOV
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907335088517599232/AxsFAPe-.jpg" group-title="SaniMpd", NK TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907335088517599232/AxsFAPe-.jpg" group-title="MUBEE++", NK TV
 http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Petchabun_FC_2011.png" group-title="SaniMpd", PHETCHABUN TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Petchabun_FC_2011.png" group-title="MUBEE++", PHETCHABUN TV
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
 #EXTINF:-1 tvg-logo="non" group-title="SaniMpd",24/7 Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="SaniMpd",Douyu Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MUBEE++",Douyu Movies
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="SaniMpd",Movies X
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="MUBEE++",Movies X
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SaniMpd", BOX MOVIE
+#EXTINF:-1 tvg-logo="" group-title="MUBEE++", BOX MOVIE
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-logo="" group-title="SaniMpd", FLIXBUS
+#EXTINF:-1 tvg-logo="" group-title="MUBEE++", FLIXBUS
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="SaniMpd",FilmRise Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="MUBEE++",FilmRise Action
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
 
-#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="SaniMpd",Rakuten TV
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="MUBEE++",Rakuten TV
 https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo="non" group-title="SaniMpd",Movie Sphere
+#EXTINF:-1 tvg-logo="non" group-title="MUBEE++",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUBEE++" logo="http://images.zaltv.club/logo/box_channel.png", Box
+https://dl.dropboxusercontent.com/s/clj1ma5lod0p9fg/box/s2/index.m3u8
+https://dl.dropboxusercontent.com/s/clj1ma5lod0p9fg/hls/box/index.m3u8
+
+#EXTINF:-1 group-title="MUBEE++" tvg-logo="http://images.zaltv.club/logo/hollywoodclassics.png", Hollywood Classics
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-logo="" group-title="MUBEE++", BOX MOVIE 2
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie2/sd2/index.m3u8?bySCTV|Referer=http://sctvonline.vn/
 
 ================================ISLAMIK=================================--------
 
@@ -916,62 +927,71 @@ https://astro1.rastream.com/amp-myfm-kk
 
 ================================LAIN-LAIN=================================--------
 
-#EXTINF:-1 group-title="SaniMpd" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_640/v1590012051/Dish/images/isolated/4k-logo-01_f78kb4",Clarity
+#EXTINF:-1 group-title="MUBEE++" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_640/v1590012051/Dish/images/isolated/4k-logo-01_f78kb4",Clarity
 https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8
 
-#EXTINF:-1 group-title="SaniMpd" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s=s360",Loupe          
+#EXTINF:-1 group-title="MUBEE++" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s=s360",Loupe          
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
 
 #EXTINF:-1 group-title="SaniMpd",Stirr Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 3: rush (1080p).png" group-title="SaniMpd",Redbox 3: Rush
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/redbox 3: rush (1080p).png" group-title="MUBEE++",Redbox 3: Rush
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/rush by amc (1080p).png" group-title="SaniMpd",Rush by AMC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/rush by amc (1080p).png" group-title="MUBEE++",Rush by AMC
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="SaniMpd",Family Flix
+#EXTINF:-1 group-title="MUBEE++",Family Flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="SaniMpd",Movies Hub
+#EXTINF:-1 group-title="MUBEE++",Movies Hub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="SaniMpd" tvg-logo="exit",Dove TV
+#EXTINF:-1 group-title="MUBEE++" tvg-logo="exit",Dove TV
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 
-#EXTINF:-1 group-title="SaniMpd",My Time
+#EXTINF:-1 group-title="MUBEE++",My Time
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="SaniMpd",Crackle
+#EXTINF:-1 group-title="MUBEE++",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="SaniMpd", And Flix
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="MUBEE++", And Flix
 https://makanja.xyz/zee/zee/zee.php?c=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="SaniMpd",And Prive
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="MUBEE++",And Prive
 https://makanja.xyz/zee/zee/zee.php?c=0-9-priv?hd
 
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="SaniMpd",MN Plus
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="MUBEE++",MN Plus
 http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
 http://103.55.144.46/hls/mn+.m3u8
 
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mvsnows.png" group-title="SaniMpd",Movies Now
-https://rana-pkz.cf/api/starX/play.m3u8?id=48160
+#EXTINF:-1 tvg-logo=""group-title="MUBEE++",Star Movies HD
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d590d8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-chno="54" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="SaniMpd",PLUTO TV ACTION
+#EXTINF:-1 tvg-logo=""group-title="MUBEE++",Star Movies
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d590d8/index.m3u8?token=c7ee9d20246705048b7bbca4bbdb08e2433095ea-e2470fe9a509d430a233a8e89b1a6735-1667308100-1667286500&remote=172.104.238.29
+
+#EXTINF:-1 tvg-logo=""group-title="MUBEE++",Star Movies Select
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d58bd9a20789e6ddaeca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="MUBEE++",Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+
+#EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-chno="54" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="MUBEE++",PLUTO TV ACTION
 Http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="617b37b361e0fd0008cfd8c5" tvg-chno="55" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="SaniMpd",PLUTO TV REACTION
+#EXTINF:-1 tvg-id="617b37b361e0fd0008cfd8c5" tvg-chno="55" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="MUBEE++",PLUTO TV REACTION
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5b64a245a202b3337f09e51d" tvg-chno="66" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="SaniMpd",PLUTO TV FANTASTIC
+#EXTINF:-1 tvg-id="5b64a245a202b3337f09e51d" tvg-chno="66" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="MUBEE++",PLUTO TV FANTASTIC
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5b4e69e08291147bd04a9fd7" tvg-chno="74" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="SaniMpd",PLUTO TV THRILLERS
+#EXTINF:-1 tvg-id="5b4e69e08291147bd04a9fd7" tvg-chno="74" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="MUBEE++",PLUTO TV THRILLERS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="569546031a619b8f07ce6e25" tvg-chno="75" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="SaniMpd",PLUTO TV HORROR
+#EXTINF:-1 tvg-id="569546031a619b8f07ce6e25" tvg-chno="75" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="MUBEE++",PLUTO TV HORROR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="5c6dc88fcd232425a6e0f06e" tvg-chno="76" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="SaniMpd",PLUTO TV TERROR
@@ -986,12 +1006,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f7
 #EXTINF:-1 tvg-id="5b4fc274694c027be6ed3eea" tvg-chno="151" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="SaniMpd",PLUTO TV SCI-FI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5ad8d3a31b95267e225e4e09" tvg-chno="50" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" group-title="SaniMpd",PLUTO TV MOVIES
+#EXTINF:-1 tvg-id="5ad8d3a31b95267e225e4e09" tvg-chno="50" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" group-title="MUBEE++",PLUTO TV MOVIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="5dbfedccc563080009b60f4a" tvg-chno="54" tvg-logo="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/colorLogoPNG.png" group-title="SaniMpd",PLUTO TV THRILLERS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dbfedccc563080009b60f4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:0 tvg-id="Pluto.TV.Spotlight.us" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="MUBEE++",PLUTO TV SPORTLIGHT
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ================================ANAK-ANAK=================================--------
 
