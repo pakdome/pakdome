@@ -957,13 +957,13 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUBEE++",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="MUBEE++", And Flix
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="MUBEE++", & flix
 https://makanja.xyz/zee/zee/zee.php?c=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="MUBEE++",And Prive
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="MUBEE++", & privé HD
 https://makanja.xyz/zee/zee/zee.php?c=0-9-priv?hd
 
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="MUBEE++",MN Plus
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="MUBEE++", Movies Now +
 http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
 http://103.55.144.46/hls/mn+.m3u8
 
