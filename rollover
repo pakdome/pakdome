@@ -967,13 +967,13 @@ https://makanja.xyz/zee/zee/zee.php?c=0-9-priv?hd
 http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
 http://103.55.144.46/hls/mn+.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="MUBEE++",Star Movies HD
+#EXTINF:-1 tvg-logo="" group-title="MUBEE++",Star Movies HD
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d590d8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="MUBEE++",Star Movies
+#EXTINF:-1 tvg-logo="" group-title="MUBEE++",Star Movies
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d590d8/index.m3u8?token=c7ee9d20246705048b7bbca4bbdb08e2433095ea-e2470fe9a509d430a233a8e89b1a6735-1667308100-1667286500&remote=172.104.238.29
 
-#EXTINF:-1 tvg-logo=""group-title="MUBEE++",Star Movies Select
+#EXTINF:-1 tvg-logo="" group-title="MUBEE++",Star Movies Select
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d58bd9a20789e6ddaeca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="MUBEE++",Lotus Macau
