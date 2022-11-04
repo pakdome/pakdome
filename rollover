@@ -980,6 +980,9 @@ http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="MUBEE++",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUBEE++",B4U Kadak
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+
 #EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-chno="54" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="MUBEE++",PLUTO TV ACTION
 Http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
