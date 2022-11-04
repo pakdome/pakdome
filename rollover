@@ -973,9 +973,11 @@ https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlis
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="MUBEE++", & flix
 https://makanja.xyz/zee/zee/zee.php?c=0-9-channel_2105335046
+https://aqfadtv.xyz/live/&flix/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="MUBEE++", & privé HD
 https://makanja.xyz/zee/zee/zee.php?c=0-9-priv?hd
+https://aqfadtv.xyz/live/&prive/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="MUBEE++", Movies Now +
 http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
@@ -992,6 +994,12 @@ http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="MUBEE++",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
+
+#EXTINF:-1 group-title="MUBEE++",&Action
+http://5.9.150.76/actionhd/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUBEE++",TNT Film
+http://208.86.19.13:81/16.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUBEE++",B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
