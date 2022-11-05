@@ -971,6 +971,9 @@ https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUBEE++", Hallmark Channel
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
+#EXTINF:-1 group-title="MUBEE++",Sony Pix
+https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="MUBEE++", & flix
 https://makanja.xyz/zee/zee/zee.php?c=0-9-channel_2105335046
 https://aqfadtv.xyz/live/&flix/index.m3u8
