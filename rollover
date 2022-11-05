@@ -1007,6 +1007,9 @@ http://208.86.19.13:81/16.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUBEE++",B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 
+#EXTINF:-1 tvg-id="1603" tvg-name="HITS HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HitsIndia_HD.png" group-title="MUBEE++",HITS India
+https://tv.googledrivelinks.com/live.php?c=HitsIndia_HD&q=800&e=junk.m3u8
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="MUBEE++",24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8?ads.plex_token=y6L36Ehg1cz2yxkXPc-u&ads.channel_Id=5fd115bab7ef8d002dcf181d&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.partnerChannel=muxip.24hourmovies&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_domain=app.plex.tv&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.channel_name=24hourmovies&ads.us_privacy=1---&ads.gdpr=0&ads.consent=0
 
