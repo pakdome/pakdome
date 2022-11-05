@@ -854,6 +854,9 @@ http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&
 #EXTINF:-1 group-title="SaniSukan",Eleven 4
 http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SaniSukan",EdgeSport
+https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
+
 ================================HALWA TELIGA=================================--------
 
 #EXTINF:-1 group-title="SaniRADIO" tvg-id="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
