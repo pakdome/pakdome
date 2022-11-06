@@ -471,21 +471,17 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=ht
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529201_ico.png?ts=1660522720" group-title="MobeePlus",myCinema
-http://210.210.155.37/uq2663/h/h192/index.m3u8|User-Agent=Lavf/56.15.102
+http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529185_ico.png?ts=1660522783" group-title="MobeePlus",myCinemaAsia
-http://210.210.155.37/uq2663/h/h193/index.m3u8|User-Agent=Lavf/56.15.102
+http://210.210.155.37/uq2663/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529189_ico.png?ts=1660522835" group-title="MobeePlus",myFamilyChannel
-http://210.210.155.37/uq2663/h/h194/index.m3u8|User-Agent=Lavf/56.15.102
+http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529197_ico.png?ts=1660522666" group-title="MobeePlus",myCinemaEurope
-http://210.210.155.37/uq2663/h/h18/01.m3u8|User-Agent=Lavf/56.15.102
+http://210.210.155.37/uq2663/h/h18/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="MobeePlus",Astro SuperSport 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webudi.openhd.lol/lb/premium124/index.m3u8
 
 ================================ISLAMIK=================================--------
 
@@ -662,30 +658,45 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="SaniSukan" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",812 Astro SuperSport 2 HD AstGO
+$EXTINF:-1 tvg-id="AstroSupersport2" group-title="SaniSukan" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8f1da399325247eca6acdd7bafb95fa2&key=41f234fb88590af3b0d224111a61bf71
-https://linear01-playback.sooka.my/CH4/masterCH4.mpd
+#https://linear01-playback.sooka.my/CH4/masterCH4.mpd
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 #https://aqfadtv.xyz/supersport2.m3u8
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SaniSukan" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",813 Astro SuperSport 3 HD AstGO
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="SaniSukan",Astro SuperSport 2 HD
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+https://webudi.openhd.lol/lb/premium124/index.m3u8
+
+$EXTINF:-1 tvg-id="AstroSupersport3" group-title="SaniSukan" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
-https://aqfadtv.xyz/supersport3.m3u8
+$https://aqfadtv.xyz/supersport3.m3u8
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/411aAdpUORq1ipLVthkITKe7wEdh7NWeJkFmW_tmV31Yk=A_Lm/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersport4" group-title="SaniSukan" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",814 Astro SuperSport 4 HD AstGO
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="SaniSukan",Astro SuperSport 3 HD
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+https://webudi.openhd.lol/lb/premium125/index.m3u8
+
+$EXTINF:-1 tvg-id="AstroSupersport4" group-title="SaniSukan" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
-https://aqfadtv.xyz/supersport4.m3u8
+$https://aqfadtv.xyz/supersport4.m3u8
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41UfpQ6-vWB66ZAp5DuLe4eZmVNDShNSPuVdJtH3X6-hE=amAG/dash-wv/jitp-linearwm/2506/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995059_ico.png?ts=1660430191" group-title="SaniSukan",Astro SuperSport 4 HD
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=android-R+
+https://webudi.openhd.lol/lb/premium126/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=113d6e58ea7e223e3fb4a9af3e927010:dc86f5d82e5dfaa0fbb22d220e023b7c
