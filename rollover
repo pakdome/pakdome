@@ -1002,6 +1002,9 @@ https://aqfadtv.xyz/live/&prive/index.m3u8
 http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
 http://103.55.144.46/hls/mn+.m3u8
 
+#EXTINF:-1 tvg-id="movienow" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="MobeePlus", Movies Now
+http://live.flixhub.net/hls/movies-now.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MobeePlus",Star Movies HD
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d590d8/tracks-v1a1/mono.m3u8
 
