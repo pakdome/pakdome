@@ -114,12 +114,12 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-name="astro warna" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="SaniMpd", ASTRO WARNA
+https://aqfadtv.xyz/live/warna/index.mpd
 #https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Ljg90Zwhkx3tyRXy8ZbJEg=L-k7/dash-wv/jitp-linearwm/2402/default_ott.mpd
 #http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21067
 #https://linears-playback.astro.com.my/vsg/21Znx8prhTUo2IeOQFBJF0Z4shAfYiC4duBu62luBB_GI=zXLH/dash-wv/jitp-linearwm/2402/default_ott.mpd
-#https://aqfadtv.xyz/warna.m3u8
 #https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
-https://stream.zeehanzgadget.com/warna.mpd
+#https://stream.zeehanzgadget.com/warna.mpd
 #https://tv.kpsvpn.com/warna.mpd
 
 $EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="SaniMpd", Astro Warna ⁽ᴮᵃᶜᵏᵘᵖ⁾
@@ -350,7 +350,7 @@ https://live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 ================================BOLLYWOOD=================================--------
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= cb6c0c34cd3b22efd444edfd21393c10:84750873ded43774b06b43b67717a708
+#KODIPROP:inputstream.adaptive.license_key=cb6c0c34cd3b22efd444edfd21393c10:84750873ded43774b06b43b67717a708
 #EXTINF:-1 tvg-id="bollyonehd" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="SaniMpd", BOLLYONE HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 #https://links.aqfadtv.xyz/bollyone.mpd
@@ -361,17 +361,17 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
+#KODIPROP:inputstream.adaptive.license_key==18fe29fdda1b4ca306b4d8f08786fd10&key:47f6fa3ca0462021aa1c0c09253ece58
 #EXTINF:-1 tvg-id="colorshd" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="SaniMpd", COLORS HINDI HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=505f7a8803b542e78941a6bfe40d2910&key=166626a62cf1b356c298b58842c60661
+#KODIPROP:inputstream.adaptive.license_key=505f7a8803b542e78941a6bfe40d2910&key:166626a62cf1b356c298b58842c60661
 #EXTINF:-1 tvg-id="221" tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="SaniMpd",Star Vijay HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d00a8536425163d5274fdf086001e110&key=7261ce40695be3526cf0e8e224546723
+#KODIPROP:inputstream.adaptive.license_key==d00a8536425163d5274fdf086001e110&key:7261ce40695be3526cf0e8e224546723
 #EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" group-title="SaniMpd" tvg-logo="https://iili.io/1NBdJ9.png",Colors Tamil HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
@@ -381,7 +381,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors_infinity_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d00a8536425163d5274fdf086001e110&key=7261ce40695be3526cf0e8e224546723
+#KODIPROP:inputstream.adaptive.license_key=d00a8536425163d5274fdf086001e110&key:7261ce40695be3526cf0e8e224546723
 #EXTINF:-1 tvg-id="ZeeTamilHD" ch-number="223" group-title="SaniMpd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",Zee Tamil HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
