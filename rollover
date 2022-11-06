@@ -667,7 +667,7 @@ $EXTINF:-1 tvg-id="AstroSupersport2" group-title="SaniSukan" ch-number="812" tvg
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="SaniSukan",Astro SuperSport 2 HD
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="SaniSukan", ASTRO SUPERSPORT 2 HD
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 https://webudi.openhd.lol/lb/premium124/index.m3u8
@@ -680,7 +680,7 @@ $https://aqfadtv.xyz/supersport3.m3u8
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/411aAdpUORq1ipLVthkITKe7wEdh7NWeJkFmW_tmV31Yk=A_Lm/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="SaniSukan",Astro SuperSport 3 HD
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="SaniSukan", ASTRO SUPERSPORT 3 HD
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 https://webudi.openhd.lol/lb/premium125/index.m3u8
@@ -693,7 +693,7 @@ $https://aqfadtv.xyz/supersport4.m3u8
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41UfpQ6-vWB66ZAp5DuLe4eZmVNDShNSPuVdJtH3X6-hE=amAG/dash-wv/jitp-linearwm/2506/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995059_ico.png?ts=1660430191" group-title="SaniSukan",Astro SuperSport 4 HD
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995059_ico.png?ts=1660430191" group-title="SaniSukan", ASTRO SUPERSPORT 4 HD
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 https://webudi.openhd.lol/lb/premium126/index.m3u8
