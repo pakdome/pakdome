@@ -1044,6 +1044,9 @@ https://aqfadtv.xyz/live/&prive/index.m3u8
 http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
 http://103.55.144.46/hls/mn+.m3u8
 
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MobeePlus",Movies Now HD
+https://bit.ly/3m7eYnn
+
 #EXTINF:-1 tvg-id="kr" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/07/25/play-logo-music-digital-video-movie-player-vector-20720725.jpg" group-title="MobeePlus", PLAYY Well-Made Movie(KR)
 https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYWellMadeMovie.m3u8
 
