@@ -461,9 +461,17 @@ https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="non" group-title="MobeePlus",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MobeePlus" logo="http://images.zaltv.club/logo/box_channel.png", Box Channel
-https://dl.dropboxusercontent.com/s/clj1ma5lod0p9fg/box/s2/index.m3u8
-https://dl.dropboxusercontent.com/s/clj1ma5lod0p9fg/hls/box/index.m3u8
+#EXTINF:-1 group-title="MobeePlus" logo="http://images.zaltv.club/logo/box_channel.png", Box Film
+https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8
+
+#EXTINF:-1 group-title="MobeePlus" logo="https://www.kindpng.com/picc/m/8-80652_world-movies-logo-png-transparent-png.png", Movies World
+http://61.19.242.134/feed/202205171929/LC11/index.m3u8
+
+#EXTINF:-1 group-title="MobeePlus" logo="https://tv.sritown.com/images/chlogo/box-film.png", 7Flix
+https://cdn6.goprimetime.info/feed/202205171929/LC5/index.m3u8
+
+#EXTINF:-1 group-title="MobeePlus" logo="https://drive.google.com/uc?id=1sc29bRrgnEt9rycGwYZJWJk4GVcsNloo", Sun Film
+https://cdn6.goprimetime.info/feed/202205171929/LC1/index.m3u8
 
 #EXTINF:-1 group-title="MobeePlus" tvg-logo="http://images.zaltv.club/logo/hollywoodclassics.png", Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
@@ -1036,8 +1044,11 @@ https://aqfadtv.xyz/live/&prive/index.m3u8
 http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
 http://103.55.144.46/hls/mn+.m3u8
 
-#EXTINF:-1 tvg-id="movienow" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="MobeePlus", Movies Now
-http://live.flixhub.net/hls/movies-now.m3u8
+#EXTINF:-1 tvg-id="kr" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/07/25/play-logo-music-digital-video-movie-player-vector-20720725.jpg" group-title="MobeePlus", PLAYY Well-Made Movie(KR)
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYWellMadeMovie.m3u8
+
+#EXTINF:-1 tvg-id="kr" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/07/25/play-logo-music-digital-video-movie-player-vector-20720725.jpg" group-title="MobeePlus", PLAYY Action Movie(KR)
+https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYActionMovie.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MobeePlus",Star Movies HD
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d590d8/tracks-v1a1/mono.m3u8
