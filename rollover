@@ -1080,6 +1080,18 @@ https://tv.googledrivelinks.com/live.php?c=HitsIndia_HD&q=800&e=junk.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="MobeePlus",24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8?ads.plex_token=y6L36Ehg1cz2yxkXPc-u&ads.channel_Id=5fd115bab7ef8d002dcf181d&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.partnerChannel=muxip.24hourmovies&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_domain=app.plex.tv&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.channel_name=24hourmovies&ads.us_privacy=1---&ads.gdpr=0&ads.consent=0
 
+#EXTINF:-1 tvg-id="" group-title="MobeePlus" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24×7 Latest Movie
+http://212.102.58.192:8009/57e7744848e617b38a7b304007d7dd42aa4c4112c5bda7c1b70ad9dc295133b13ff102624024d9/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MobeePlus" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24×7 Recent Release
+http://mpur2.dyndns.tv:5808/PPV.HINDI1/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MobeePlus" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24×7 THIS YEAR
+http://dpus1.ddns.net:5808/PPV.HINDI2/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MobeePlus" tvg-language="Hindi" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg",24x7 New Movies
+http://89.187.182.144:8009/57e7744848e617b38a7b304007d7dd42aa4c411ecfa6a3d1ae01dfd539493fa333/index.m3u8
+
 #EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-chno="54" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="MobeePlus",PLUTO TV ACTION
 Http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
