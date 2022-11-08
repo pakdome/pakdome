@@ -1141,7 +1141,7 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 ================================ANAK-ANAK=================================--------
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
+#KODIPROP:inputstream.adaptive.license_key=6b398595696c2d609a8a1c3dc27af710&key:cf14a926974812acaadcc2c986f7ed4d
 #EXTINF:-1 tvg-id="612" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="SaniKiDs",TA-DAA!
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
@@ -1206,3 +1206,6 @@ https://siloh.pluto.tv/lilo/production/Nick/03/master_3.m3u8
 
 #EXTINF:-1 group-title="SaniKiDs",Nick Jr. Pluto
 https://siloh.pluto.tv/lilo/production/Nick/04/master_3.m3u8
+
+#EXTINF:-1 tvg-id="tiny.pop.gb" tvg-name="Tiny POP" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png" group-title="SaniKiDs",Baby Shark Tv
+https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
