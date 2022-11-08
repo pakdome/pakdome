@@ -355,9 +355,9 @@ https://live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 #https://links.aqfadtv.xyz/bollyone.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="SaniMpd", ABO MOVIES THANGATHIRAI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31ff25ad46df61d3352a03de5f085f10&key:2daee966c9736498a05505174b266bde
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="SaniMpd", ABO MOVIES THANGATHIRAI HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -414,14 +414,14 @@ http://208.115.215.42/ZEE_Tv_HD_02/index.m3u8
 #EXTINF:-1 tvg-id="ZEECINEMA.ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="SaniMpd",Zee Cinema HD
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="SaniMpd",Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+$EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="SaniMpd",Bflix Movies
+$https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="Utsav Gold" tvg-name="Utsav Gold" tvg-logo="https://i.ibb.co/ngntF9d/Star-Gold-2011.png" group-title="SaniMpd",Utsav Gold
-http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+$EXTINF:-1 tvg-id="Utsav Gold" tvg-name="Utsav Gold" tvg-logo="https://i.ibb.co/ngntF9d/Star-Gold-2011.png" group-title="SaniMpd",Utsav Gold
+$http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Utsav Plus" tvg-name="Utsav Plus" tvg-logo="https://i.ibb.co/DG5Q3vk/Star-plus-2016.png" group-title="SaniMpd",Utsav Plus
-http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
+$EXTINF:-1 tvg-id="Utsav Plus" tvg-name="Utsav Plus" tvg-logo="https://i.ibb.co/DG5Q3vk/Star-plus-2016.png" group-title="SaniMpd",Utsav Plus
+$http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 
 
 £ https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=
@@ -449,17 +449,24 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MobeePlus", BOX MOVIE
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-logo="" group-title="MobeePlus", FLIXBUS
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+$EXTINF:-1 tvg-logo="" group-title="MobeePlus", FLIXBUS
+$http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="MobeePlus",FilmRise Action
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
 
-#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="MobeePlus",Rakuten TV
-https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MobeePlus",Electric Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
 
-#EXTINF:-1 tvg-logo="non" group-title="MobeePlus",Movie Sphere
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="MobeePlus",Rakuten TV
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="non" group-title="MobeePlus",Movie Sphere UK
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MobeePlus",Movie SPhere US
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MobeePlus" logo="http://images.zaltv.club/logo/box_channel.png", Box Film
 https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8
