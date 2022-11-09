@@ -428,13 +428,20 @@ $http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 ================================ADDON MUBEE=================================--------
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/12/ueNbxy.jpg" group-title="MobeePlus", FWMOV Thai
+#EXTVLCOPT:network-caching=1000 
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907335088517599232/AxsFAPe-.jpg" group-title="MobeePlus", NK TV Thai
+#EXTVLCOPT:network-caching=1000 
 http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Petchabun_FC_2011.png" group-title="MobeePlus", PHETCHABUN TV Thai
+#EXTVLCOPT:network-caching=1000 
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+
+#EXTINF:0 group-title="MobeePlus",FLIXLIR
+#EXTVLCOPT:network-caching=1000
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="non" group-title="MobeePlus",24/7 Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -453,6 +460,7 @@ $EXTINF:-1 tvg-logo="" group-title="MobeePlus", FLIXBUS
 $http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="MobeePlus",FilmRise Action
+#EXTVLCOPT:network-caching=1000 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
 
 #EXTINF:-1  tvg-logo="" group-title="MobeePlus",Electric Now
@@ -463,21 +471,27 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-logo="non" group-title="MobeePlus",Movie Sphere UK
+#EXTVLCOPT:network-caching=1000 
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MobeePlus",Movie SPhere US
+#EXTVLCOPT:network-caching=1000 
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MobeePlus" logo="http://images.zaltv.club/logo/box_channel.png", Box Film
+#EXTVLCOPT:network-caching=1000 
 https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8
 
 #EXTINF:-1 group-title="MobeePlus" logo="https://www.kindpng.com/picc/m/8-80652_world-movies-logo-png-transparent-png.png", Movies World
+#EXTVLCOPT:network-caching=1000 
 http://61.19.242.134/feed/202205171929/LC11/index.m3u8
 
 #EXTINF:-1 group-title="MobeePlus" logo="https://tv.sritown.com/images/chlogo/box-film.png", 7Flix
+#EXTVLCOPT:network-caching=1000 
 https://cdn6.goprimetime.info/feed/202205171929/LC5/index.m3u8
 
 #EXTINF:-1 group-title="MobeePlus" logo="https://drive.google.com/uc?id=1sc29bRrgnEt9rycGwYZJWJk4GVcsNloo", Sun Film
+#EXTVLCOPT:network-caching=1000 
 https://cdn6.goprimetime.info/feed/202205171929/LC1/index.m3u8
 
 #EXTINF:-1 group-title="MobeePlus" tvg-logo="http://images.zaltv.club/logo/hollywoodclassics.png", Hollywood Classics
@@ -487,15 +501,19 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?cc|Referer=ht
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529201_ico.png?ts=1660522720" group-title="MobeePlus",myCinema
+#EXTVLCOPT:network-caching=1000
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529185_ico.png?ts=1660522783" group-title="MobeePlus",myCinemaAsia
+#EXTVLCOPT:network-caching=1000 
 http://210.210.155.37/uq2663/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529189_ico.png?ts=1660522835" group-title="MobeePlus",myFamilyChannel
+#EXTVLCOPT:network-caching=1000
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529197_ico.png?ts=1660522666" group-title="MobeePlus",myCinemaEurope
+#EXTVLCOPT:network-caching=1000 
 http://210.210.155.37/uq2663/h/h18/01.m3u8
 
 #EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-chno="1295" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210909T003510.png" group-title="MobeePlus",NEW KMOVIES
@@ -1048,8 +1066,9 @@ https://makanja.xyz/zee/zee/zee.php?c=0-9-priv?hd
 https://aqfadtv.xyz/live/&prive/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="MobeePlus", Movies Now +
+#EXTVLCOPT:network-caching=1000 
 http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
-http://103.55.144.46/hls/mn+.m3u8
+#http://103.55.144.46/hls/mn+.m3u8
 
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MobeePlus",Movies Now HD
 https://bit.ly/3m7eYnn
