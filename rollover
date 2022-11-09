@@ -182,12 +182,12 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 ================================MUBEE=================================--------
 
-$KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-$EXTINF:-1 tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="SaniMpd", HBO Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="SaniMpd", HBO Hits
 https://live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="SaniMpd", HBO Hits
+$EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="SaniMpd", HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d8d9b7ed94fad6e56f1642504605b10:cf881ed230797c106f8e6ac843d797f3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
@@ -203,14 +203,14 @@ $KODIPROP:inputstream.adaptive.license_type=clearkey
 $EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="SaniMpd", HBO
 https://linears-playback.astro.com.my/vsgN/41AmYYY7a-gIrsPtxYQYY0-OO3qd8apA5QamdjOag_pEU=7_gi/dash-wv/jitp-linearwm/2304/default_ott.mpd
 
-$KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1 
-$EXTINF:-1 tvg-logo="https://s11.postimg.cc/g5s9gyesz/hbo_family.jpg" group-title="SaniMpd", HBO Family
+#EXTINF:-1 tvg-logo="https://s11.postimg.cc/g5s9gyesz/hbo_family.jpg" group-title="SaniMpd", HBO Family
 https://live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8cfb499a75630eca1d50e584f58e9310:0a11d637ad2eaa1f7a75f42b7fc72b30
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="SaniMpd", HBO FAMILY
+$EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="SaniMpd", HBO FAMILY
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -218,14 +218,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://s11.postimg.cc/g5s9gyesz/hbo_signature.jpg" group-title="SaniMpd",HBO Signature
 https://live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-$KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-$EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="SaniMpd",Cinemax HD 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="SaniMpd",Cinemax HD 
 https://live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="SaniMpd", CINEMAX
+$EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="SaniMpd", CINEMAX
 http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 $EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="SaniMpd", Cinemax HD ⁽ᴮᵃᶜᵏᵘᵖ⁾
@@ -249,7 +249,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=064b474a4851760b3ac81a7e89437410:18eea3fcbfb8313f46d1a2c45a573e02
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="SaniMpd", CELESTIAL MOVIES
+$EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="SaniMpd", CELESTIAL MOVIES
 http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -272,24 +272,24 @@ https://live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-H
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="SaniMpd", GALAXY HD
 https://live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-$KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-$EXTINF:-1  tvg-logo="https://s29.postimg.cc/v23lwpn9j/warnertv.png" group-title="SaniMpd",Warner TV HD
+#EXTINF:-1  tvg-logo="https://s29.postimg.cc/v23lwpn9j/warnertv.png" group-title="SaniMpd",Warner TV HD
 https://live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8300c66236b3057410cde9cf0970910:f3787e40b34f18ab2dccd809e78ceec1
-#EXTINF:-1 tvg-ID="warnertvhd" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="SaniMpd", WARNER TV HD
+$EXTINF:-1 tvg-ID="warnertvhd" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="SaniMpd", WARNER TV HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
-$KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-$EXTINF:-1 tvg-logo="https://s14.postimg.cc/obxi97bdt/axn-logo-vector-download-400x400.jpg" group-title="SaniMpd",AXN HD
+#EXTINF:-1 tvg-logo="https://s14.postimg.cc/obxi97bdt/axn-logo-vector-download-400x400.jpg" group-title="SaniMpd",AXN HD
 https://live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7f352ff63e533f3baa950d7e2497410:e11de6f5f84bbd2f150ffc82191880e8
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="SaniMpd", AXN
+$EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="SaniMpd", AXN
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -297,24 +297,24 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 #EXTINF:-1 tvg-name="304" tvg-id="THRILL.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="SaniMpd",Thrill
 https://live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-$KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-$EXTINF:-1 tvg-ID="HITS.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="SaniMpd",HITS HD 
+#EXTINF:-1 tvg-ID="HITS.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="SaniMpd",HITS HD 
 https://live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c895c9ffb76edf62261e7588665a7310:2bd500fc595131eaf160258a85dc72b6
-#EXTINF:-1 tvg-id="706" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="SaniMpd", HITS
+$EXTINF:-1 tvg-id="706" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="SaniMpd", HITS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
-$KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-$EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="SaniMpd",HITS Movies HD
+#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="SaniMpd",HITS Movies HD
 https://live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb5e8d918097e067ab1bc7e3a9e68410:dbda57d3de69f5e4b78ff2cc73d8a51a
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="SaniMpd", Hits Movies HD
+$EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="SaniMpd", Hits Movies HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -327,9 +327,9 @@ https://live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:-1 tvg-ID="FMN.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fmn.png" group-title="SaniMpd",FMN HD
 https://live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-$KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1 
-$EXTINF:-1 tvg-name="305" tvg-id="TYP.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="SaniMpd", Celestial Movies HD
+#EXTINF:-1 tvg-name="305" tvg-id="TYP.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="SaniMpd", Celestial Movies HD
 https://live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
