@@ -368,13 +368,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
 #EXTINF:-1 tvg-id="221" tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="SaniMpd",Star Vijay HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key==d00a8536425163d5274fdf086001e110&key:7261ce40695be3526cf0e8e224546723
-#EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" group-title="SaniMpd" tvg-logo="https://iili.io/1NBdJ9.png",Colors Tamil HD
+#KODIPROP:inputstream.adaptive.license_key=d00a8536425163d5274fdf086001e110&key:7261ce40695be3526cf0e8e224546723
+$EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" group-title="SaniMpd" tvg-logo="https://iili.io/1NBdJ9.png",Colors Tamil HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -384,7 +384,7 @@ https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors_infinity_hd.smil
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d00a8536425163d5274fdf086001e110&key:7261ce40695be3526cf0e8e224546723
-#EXTINF:-1 tvg-id="ZeeTamilHD" ch-number="223" group-title="SaniMpd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",Zee Tamil HD
+$EXTINF:-1 tvg-id="ZeeTamilHD" ch-number="223" group-title="SaniMpd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",Zee Tamil HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 $EXTINF:-1 tvg-id="301" tvg-logo="https://i.ibb.co/kDYcMsQ/20200709194934030p1r.png" group-title=SaniMpd",Yupp Thirai
