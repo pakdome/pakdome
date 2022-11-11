@@ -98,3 +98,15 @@ https://www.googleapis.com/drive/v3/files/1ux-SfffHQFY9CxQ2AKDbhWtAOcOp38S8?alt=
 
 #EXTINF:-1 type="movie" tvg-logo="https://i.postimg.cc/NFRk3DZ0/Lastnightinsoho.jpg" group-title="SaniVod", Last Night In Soho
 https://privatemaster.xyz/cdn/stream/master/VBpwCYoNcUXQEdToGLhtaWPAOhK1tUpoKBIY1oHH8j5iSvS1ccmpDJOWj8SVLmMmKVzaKMJ9Zl4co7N9iHLqgmU0tyB5jFtCWSEb1UG4bDzBFIyO4pE34KFsSat43IK4/play.m3u8
+
+#EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",Home Alone (1990)
+http://www.deadlyblogger.com/NewRelease/homealone1.mp4
+
+#EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Home_Alone_2.jpg",Home Alone 2: Lost in New York (1992)
+http://www.deadlyblogger.com/NewRelease/homealone2.mp4
+
+#EXTINF:-1 type="movie" group-title="SaniVod",Home Alone 3 (1997)
+http://www.deadlyblogger.com/NewRelease/homealone3.mp4
+
+#EXTINF:-1 type="movie" group-title="SaniVod" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAzNjM3OTEwNjNeQTJeQWpwZ15BbWU3MDk1ODIwMDE@._V1_.jpg",Home Alone 4 (2002)
+http://www.deadlyblogger.com/NewRelease/homealone4.mp4
