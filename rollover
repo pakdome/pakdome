@@ -928,6 +928,21 @@ http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pdcFfT1/fight.jpg" group-title="SaniSukan",EdgeSport
 https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
 
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-eng1.png" group-title="SaniSukan",beIN SPORTS ENGLISH 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium61/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-eng2.png" group-title="SaniSukan",beIN SPORTS ENGLISH 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium90/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/bein-eng3.png" group-title="SaniSukan",beIN SPORTS ENGLISH 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium46/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
 ================================HALWA TELIGA=================================--------
 
 #EXTINF:-1 group-title="SaniRADIO" tvg-id="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png",Nasional FM
