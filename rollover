@@ -392,7 +392,7 @@ $EXTINF:-1 tvg-id="301" tvg-logo="https://i.ibb.co/kDYcMsQ/20200709194934030p1r.
 http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title=SaniMpd",Sony Pix HD
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
@@ -1104,13 +1104,16 @@ https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYWellMadeMovie.m3u8
 https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYActionMovie.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MobeePlus",Star Movies HD
-http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d590d8/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155727
 
 #EXTINF:-1 tvg-logo="" group-title="MobeePlus",Star Movies
-http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d590d8/index.m3u8?token=c7ee9d20246705048b7bbca4bbdb08e2433095ea-e2470fe9a509d430a233a8e89b1a6735-1667308100-1667286500&remote=172.104.238.29
+#extvlcopt:http-user-agent=REDLINECLIENT
+http://line.premiumpowers.net/b6126cb61b/8021f2d210/282650
 
 #EXTINF:-1 tvg-logo="" group-title="MobeePlus",Star Movies Select
-http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d58bd9a20789e6ddaeca/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155729
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="MobeePlus",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
