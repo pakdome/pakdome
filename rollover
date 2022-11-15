@@ -705,12 +705,12 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/601/default_primary.mpd
 
-$EXTINF:-1 tvg-id="AstroSupersport2" group-title="SaniSukan" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astro SuperSport 2 HD
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="SaniSukan" ch-number="812" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8f1da399325247eca6acdd7bafb95fa2&key=41f234fb88590af3b0d224111a61bf71
+#KODIPROP:inputstream.adaptive.license_key= https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
 #https://linear01-playback.sooka.my/CH4/masterCH4.mpd
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
-#https://aqfadtv.xyz/supersport2.m3u8
+https://aqfadtv.xyz/live/supersport2/index.mpd
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/2104/default_primary.mpd
 
@@ -719,11 +719,11 @@ $EXTINF:-1 tvg-id="AstroSupersport2" group-title="SaniSukan" ch-number="812" tvg
 #EXTVLCOPT:http-user-agent=android-R+
 https://webudi.openhd.lol/lb/premium124/index.m3u8
 
-$EXTINF:-1 tvg-id="AstroSupersport3" group-title="SaniSukan" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astro SuperSport 3 HD 
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="SaniSukan" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
 #https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
-$https://aqfadtv.xyz/supersport3.m3u8
+https://aqfadtv.xyz/live/supersport3/index.mpd
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/411aAdpUORq1ipLVthkITKe7wEdh7NWeJkFmW_tmV31Yk=A_Lm/dash-wv/jitp-linearwm/2701/default_primary.mpd
 
@@ -732,10 +732,10 @@ $https://aqfadtv.xyz/supersport3.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 https://webudi.openhd.lol/lb/premium125/index.m3u8
 
-$EXTINF:-1 tvg-id="AstroSupersport4" group-title="SaniSukan" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 HD
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="SaniSukan" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 $https://aqfadtv.xyz/supersport4.m3u8
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41UfpQ6-vWB66ZAp5DuLe4eZmVNDShNSPuVdJtH3X6-hE=amAG/dash-wv/jitp-linearwm/2506/default_primary.mpd
@@ -1106,7 +1106,7 @@ http://usfd1.doghouseip.com:24342/re-mnplushhd/mono.m3u8
 #http://103.55.144.46/hls/mn+.m3u8
 
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MobeePlus",Movies Now HD
-https://bit.ly/3m7eYnn
+http://line.premiumpowers.net/b6126cb61b/8021f2d210/282651
 
 #EXTINF:-1 tvg-id="kr" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/07/25/play-logo-music-digital-video-movie-player-vector-20720725.jpg" group-title="MobeePlus", PLAYY Well-Made Movie(KR)
 https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYWellMadeMovie.m3u8
@@ -1118,13 +1118,17 @@ https://allanf181.github.io/adaptive-streams/streams/kr/PLAYYActionMovie.m3u8
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155727
 
-#EXTINF:-1 tvg-logo="" group-title="MobeePlus",Star Movies
-#extvlcopt:http-user-agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="" group-title="MobeePlus",MnX
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://line.premiumpowers.net/b6126cb61b/8021f2d210/282650
 
 #EXTINF:-1 tvg-logo="" group-title="MobeePlus",Star Movies Select
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155729
+
+#EXTINF:-1 tvg-logo="" group-title="MobeePlus",MnPlus
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://line.premiumpowers.net/b6126cb61b/8021f2d210/282649
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="MobeePlus",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
