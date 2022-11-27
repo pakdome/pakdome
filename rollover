@@ -703,13 +703,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
 #EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SaniSukan",ASTRO WC QATAR 1
-http://linears-playback.astro.com.my/vsg/41ndk0-eDLDJS0TwkNuO2uyOAWpUNXagZxVU4b9gKDc_8=l3RR/dash-wv/jitp-linearwm/5090/default_primary.mpd
+#http://linears-playback.astro.com.my/vsg/41ndk0-eDLDJS0TwkNuO2uyOAWpUNXagZxVU4b9gKDc_8=l3RR/dash-wv/jitp-linearwm/5090/default_primary.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
 #EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SaniSukan",ASTRO WC QATAR 2
-http://linears-playback.astro.com.my/vsg/415IyuP-r1XOhScyM_2pR8ttoUZ9aaOQwTxTVsibDxBxc=HXxA/dash-wv/jitp-linearwm/5091/default_primary.mpd
+#http://linears-playback.astro.com.my/vsg/415IyuP-r1XOhScyM_2pR8ttoUZ9aaOQwTxTVsibDxBxc=HXxA/dash-wv/jitp-linearwm/5091/default_primary.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd
 
 #EXTINF:-1 tvg-id="805" group-title="SaniSukan" ch-number="805" tvg-logo="", FIFA World Cup Qatar 2022
@@ -1117,11 +1117,11 @@ https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlis
 https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="MobeePlus", & flix
-https://makanja.xyz/zee/zee/zee.php?c=0-9-channel_2105335046
+#https://makanja.xyz/zee/zee/zee.php?c=0-9-channel_2105335046
 https://aqfadtv.xyz/live/&flix/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="MobeePlus", & privé HD
-https://makanja.xyz/zee/zee/zee.php?c=0-9-priv?hd
+#https://makanja.xyz/zee/zee/zee.php?c=0-9-priv?hd
 https://aqfadtv.xyz/live/&prive/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png" group-title="MobeePlus", Movies Now +
