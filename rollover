@@ -677,6 +677,7 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="SaniSukan" :http-referrer="","QATAR 2022"
+http://m2.redirect-pro.com/4Z8EhZdKJNplyEK/p0hy3Tv9B2/602435
 http://w.nasvpn.xyz:8080/live/best/best/13947.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
