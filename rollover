@@ -699,8 +699,54 @@ https://webudi.openhd.lol/primamax/prima900/tracks-v1a1/mono.m3u8?|Referer=https
 #EXTINF:-1 tvg-id="TVR1.ro" tvg-name="tvr 1" group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/3f/TVR_1_%282010-.n.v.%29.png/revision/latest?cb=20180622131700",TVR 1
 https://webudi.openhd.lol/cdn/8/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/maxsport.php?id=tvr1&e=.m3u8
 
-#EXTINF:-1, tvg-id="TVR1.ro" tvg-name="tvr 1" group-title="FIFA WORLD CUP 2022 QATAR" Asahi TV 🇯🇵
+#EXTINF:-1, tvg-id="TVR1.ro" tvg-name="tvr 1" group-title="FIFA WORLD CUP 2022 QATAR", Asahi TV 🇯🇵
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR" tvg-id="ASSP1.my" tvg-name="Astro SuperSport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Astro_2016_logo.svg/320px-Astro_2016_logo.svg.png", Astro WORLD CUP LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webdi.openhd.lol/ddyx2/premium294/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR" tvg-id="ASSP1.my" tvg-name="Astro SuperSport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Astro_2016_logo.svg/320px-Astro_2016_logo.svg.png", Astro WORLD CUP REPLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webdi.openhd.lol/ddyx2/premium295/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic869.jpg" group-title="FIFA WORLD CUP 2022 QATAR",BeinSports Max 3 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webudi.openhd.lol/lb/premium298/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic867.jpg" group-title="FIFA WORLD CUP 2022 QATAR",BeinSports Max 1 AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webudi.openhd.lol/lb/premium296/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic868.jpg" group-title="FIFA WORLD CUP 2022 QATAR",BeinSports Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webudi.openhd.lol/lb/premium297/index.m3u8|ExoPlayerLib/2.13.2=&referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic541.jpg" group-title="FIFA WORLD CUP 2022 QATAR",BeinSports Max 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webdi.openhd.lol/ddyx2/premium299/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic675.jpg",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webdi.openhd.lol/lb/premium1/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="", 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webdi.openhd.lol/lb/premium4/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic507.jpg",M4 Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webdi.openhd.lol/lb/premium5/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022 QATAR" tvg-logo="",ZIVE SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://webdi.openhd.lol/lb/premium9/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+EXTINF:-1 tvg-id="805" group-title="FIFA WORLD CUP 2022 QATAR" ch-number="805" tvg-logo="", Tyso Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 ------------------$$$$$$$$$$$---------------
 
@@ -726,6 +772,7 @@ https://aqfadtv.xyz/live/arena2/index.mpd
 
 #EXTINF:-1 tvg-id="AstroUHD" ch-number="780" group-title="SaniSukan" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",Astro UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=720p
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
@@ -745,12 +792,6 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_pri
 #EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SaniSukan",ASTRO WC QATAR 2
 #http://linears-playback.astro.com.my/vsg/415IyuP-r1XOhScyM_2pR8ttoUZ9aaOQwTxTVsibDxBxc=HXxA/dash-wv/jitp-linearwm/5091/default_primary.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_primary.mpd
-
-#EXTINF:-1 tvg-id="805" group-title="SaniSukan" ch-number="805" tvg-logo="", FIFA World Cup Qatar 2022
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
