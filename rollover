@@ -132,13 +132,13 @@ http://51.81.208.129:35461/17501083101/524668/733
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png" group-title="SaniMpd",ASTRO CITRA
-https://aqfadtv.xyz/live/citra/index.mpd
+https://aqfadtv.xyz/live/citra
 #https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9NByAGgl2kQfOtC37g4rN04=yctF/dash-wv/jitp-linearwm/2700/default_ott.mpd
 #http://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9A-D0-RWUdVB4kRwbkpV-YU=csDv/dash-wv/jitp-linearwm/2700/default_primary.mpd
 #https://tv.kpsvpn.com/citra.mpd
 
-$EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾
-https://stream.zeehanzgadget.com/citra
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/14.ts
 #http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
 #https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782413
 
