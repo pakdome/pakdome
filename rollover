@@ -165,13 +165,13 @@ https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 http://parlimenrakyatmobile.secureswiftcontent.com:443/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
 #EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="SaniMpd", ASTRO AWANI
 #https://links.nextv.ga/play/1CyHxbM9mj9O3eg5xiTDfY6_aWSaxyavHSR5cz1Z2IQ
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
 #EXTINF:-1 tvg-id="502" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="SaniMpd", BERNAMA
 #https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
