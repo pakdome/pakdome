@@ -161,7 +161,7 @@ http://210.210.155.37/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png" group-title="SaniMpd",INSPIRASI
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
-#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/parlimen_zpsouqfwxqk.png" group-title="SaniMpd", RTM Parlimen
+$EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/parlimen_zpsouqfwxqk.png" group-title="SaniMpd", RTM Parlimen
 http://parlimenrakyatmobile.secureswiftcontent.com:443/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -187,7 +187,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png" group-title="SaniMpd", Al-HIJRAH
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/tv%20ikim_zpsccmat3fi.png" group-title="SaniMpd", TV IKIM
+$EXTINF:-1 tvg-logo="http://i1044.photobucket.com/albums/b447/Amachongz/tv%20ikim_zpsccmat3fi.png" group-title="SaniMpd", TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 ================================MUBEE=================================--------
