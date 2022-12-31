@@ -138,7 +138,7 @@ https://links.nextv.ga/play/1CyHxbM9mj9O3eg5xiTDfXj9ZAd-CdNseIxRw6JnzHM
 #http://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9A-D0-RWUdVB4kRwbkpV-YU=csDv/dash-wv/jitp-linearwm/2700/default_primary.mpd
 #https://tv.kpsvpn.com/citra.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾
+$EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra ⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://139.99.96.163:2095/live/User48278/tBw10zkne9/14.ts
 #http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
 #https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782413
@@ -165,13 +165,15 @@ https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 http://parlimenrakyatmobile.secureswiftcontent.com:443/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09891197fd467008f73b1fe18bfed710:fa752673e5da5541a796569371788dea
+#KODIPROP:inputstream.adaptive.license_key= https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
 #EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="SaniMpd", ASTRO AWANI
+#https://links.nextv.ga/play/1CyHxbM9mj9O3eg5xiTDfY6_aWSaxyavHSR5cz1Z2IQ
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa3ffd5b0ad254ca7b23c85c240f4910:c17b80d133522c555b4c10ad6a142750
+#KODIPROP:inputstream.adaptive.license_key= https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
 #EXTINF:-1 tvg-id="502" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="SaniMpd", BERNAMA
+#https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 $KODIPROP:inputstream.adaptive.license_type=clearkey
