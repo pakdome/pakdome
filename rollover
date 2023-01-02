@@ -1345,3 +1345,30 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/TDfs7Wc.jpg?v=1.1.1.1" group-title="Singapore" tvg-ID="ChU.SG", Channel U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
+
+UNIFI TV
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+#EXTINF:-1 tvg-id="118" group-title="Unifi TV" tvg-logo="https://i.ibb.co/tpJfQ9x/Unifi-Inspirasi.png",Inspirasi
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
+#EXTINF:-1  tvg-id="116" group-title="Unifi TV" tvg-logo="https://i.ibb.co/Zm25L8D/Unifi-Sensasi.png",Sensasi
+https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+#EXTINF:-1 tvg-id="120" group-title="Unifi TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Degup_ID.png/revision/latest/scale-to-width-down/1200?cb=20220924000647",Degup
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/siar/
+#EXTINF:-1 tvg-id="121" group-title="Unifi TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",Siar
+https://aqfadtv.xyz/live/unifitv/siar/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 tvg-id="128" group-title="Unifi TV" tvg-logo="https://i.ibb.co/r42DCKG/20190716074123890vav.png",Dunia Sinema
+https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
