@@ -697,7 +697,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 ------------------$$$$$$$$$$$---------------
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="SaniSukan", Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png" group-title="SaniSukan",Unifi Sports 1
 https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -1353,3 +1353,13 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 #EXTINF:-1 tvg-id="128" group-title="Unifi TV" tvg-logo="https://i.ibb.co/r42DCKG/20190716074123890vav.png",Dunia Sinema
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/salam/
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Salam-HD.png" group-title="Unifi TV",SALAM HD
+https://aqfadtv.xyz/live/unifitv/salam/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/pesona/
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/PesonaHDv2.png" group-title="Unifi TV",PESONA HD
+https://aqfadtv.xyz/live/unifitv/pesona/index.mpd
