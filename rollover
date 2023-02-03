@@ -723,7 +723,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png" group-title="SaniSukan", ASTRO SUPERSPORT HD
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+http://54.37.82.205:8081/liveorigin/my-asp1hd_480/playlist.m3u8
 #https://aqfadtv.xyz/supersport1.m3u8
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 #https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54bqkPiKJmsiWBL_8WTvdu1c=j6Pd/dash-wv/jitp-linearwm/601/default_primary.mpd
@@ -740,7 +740,7 @@ $EXTINF:-1 tvg-id="AstroSupersport2" group-title="SaniSukan" ch-number="812" tvg
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="SaniSukan", ASTRO SUPERSPORT 2 HD
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webudi.openhd.lol/lb/premium124/index.m3u8
+http://54.37.82.205:8081/liveorigin/my-asp2hd_480/playlist.m3u8
 
 $EXTINF:-1 tvg-id="AstroSupersport3" group-title="SaniSukan" ch-number="813" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -753,7 +753,7 @@ $EXTINF:-1 tvg-id="AstroSupersport3" group-title="SaniSukan" ch-number="813" tvg
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="SaniSukan", ASTRO SUPERSPORT 3 HD
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webudi.openhd.lol/lb/premium125/index.m3u8
+http://54.37.82.205:8081/liveorigin/my-asp3hd_480/playlist.m3u8
 
 $EXTINF:-1 tvg-id="AstroSupersport4" group-title="SaniSukan" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -766,7 +766,7 @@ $https://aqfadtv.xyz/supersport4.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995059_ico.png?ts=1660430191" group-title="SaniSukan", ASTRO SUPERSPORT 4 HD
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webudi.openhd.lol/lb/premium126/index.m3u8
+http://54.37.82.205:8081/liveorigin/my-asp4hd_480/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
