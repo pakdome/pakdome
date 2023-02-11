@@ -1116,10 +1116,12 @@ https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlis
 https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&q=400&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="MobeePlus", & flix
+#EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=And_Flix_HD
 #https://makanja.xyz/zee/zee/zee.php?c=0-9-channel_2105335046
 https://aqfadtv.xyz/live/&flix/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="MobeePlus", & privé HD
+#EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=And_Prive_HD
 #https://makanja.xyz/zee/zee/zee.php?c=0-9-priv?hd
 https://aqfadtv.xyz/live/&prive/index.m3u8
 
