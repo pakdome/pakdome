@@ -1346,31 +1346,13 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/salam/
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Salam-HD.png" group-title="Unifi TV",SALAM HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Salam-HD.png" group-title="Unifi TV",SALAM HD
 https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/pesona/
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/PesonaHDv2.png" group-title="Unifi TV",PESONA HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/PesonaHDv2.png" group-title="Unifi TV",PESONA HD
 https://aqfadtv.xyz/live/unifitv/pesona/index.mpd
 
-
-
----------------Random------------//-/
-
-#EXTINF:-1 tvg-name="dtg the movies (indonesia subtittle)" tvg-logo="https://www.dropbox.com/s/xbi9e9fy1huead0/dtg%20the%20movies.png?dl=1" group-title="FILM",DTG The Movies (Indonesia Subtittle)
-http://www.goldentv.tech:25461/live/Angga12/Angga12/24995.m3u8
-
-#EXTINF:-1 tvg-name="dtg world movies (indonesia subtittle)" tvg-logo="https://www.dropbox.com/s/up0ds5uuo7juqsb/dtg%20movies%20world.png?dl=1" group-title="FILM",DTG World Movies (Indonesia Subtittle)
-http://www.goldentv.tech:25461/live/Angga12/Angga12/25983.m3u8
-
-#EXTINF:-1 tvg-name="dtg film indonesia (indonesia subtittle)" tvg-logo="https://www.dropbox.com/s/vbhebtyqqlr638g/dtg%20film%20indonesia.png?dl=1" group-title="FILM",DTG Film Indonesia (Indonesia Subtittle)
-http://www.goldentv.tech:25461/live/Angga12/Angga12/25988.m3u8
-
-#EXTINF:-1 tvg-name="dtg box office (indonesia subtittle)" tvg-logo="https://www.dropbox.com/s/2ek24kq4p77qx96/20220612_141922.png?dl=1" group-title="FILM",DTG Box Office (Indonesia Subtittle)
-http://www.goldentv.tech:25461/live/Angga12/Angga12/23407.m3u8
-
-#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-name="dtg horror (indonesia subtittle)" tvg-logo="https://www.dropbox.com/s/hl7rk0fuonyhcbr/dtg%20haunted.png?dl=1" group-title="FILM",DTG Horror (Indonesia Subtittle)
-http://www.goldentv.tech:25461/live/Angga12/Angga12/39526.m3u8
 
 
