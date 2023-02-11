@@ -1354,5 +1354,8 @@ https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/PesonaHDv2.png" group-title="Unifi TV",PESONA HD
 https://aqfadtv.xyz/live/unifitv/pesona/index.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/pesona/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/PesonaHDv2.png" group-title="Unifi TV",KARISMA
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941605&extension=ts&play_token=S5wl7uZ2iP
 
