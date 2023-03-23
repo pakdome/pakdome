@@ -90,9 +90,9 @@ $EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/con
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=74699917&ct=18190&tsum=10f07979a326b9083270f13d653b19a4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" group-title="SaniMpd", Astro Ceria HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
 
 $EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="SaniMpd", Astro Ceria ⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
@@ -123,7 +123,8 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #EXTINF:-1 tvg-name="astro warna" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="SaniMpd", ASTRO WARNA
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://warna.astradamy.com/dash-wv/jitp-linearwm/2402/default.mpd
+https://speedtrademarket.com/live/channel/warna.m3u8
+#https://warna.astradamy.com/dash-wv/jitp-linearwm/2402/default.mpd
 #https://stream.zeehanzgadget.com/warna
 
 $EXTINF:-1 tvg-id="107" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="SaniMpd", ASTRO WARNA
