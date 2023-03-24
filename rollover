@@ -268,6 +268,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1109/
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/42_144.png" group-title="SaniMpd",ART Movies ASTV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1283d2fab34ca094ab1cfd1238476a10:edf87dc4bdc835c6daffdd213c8029df
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="SaniMpd", CCM
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
