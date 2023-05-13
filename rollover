@@ -205,7 +205,7 @@ http://hotz.vip:2082/live/haziqdanial/abc12345/3252.m3u8
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="SaniMpd", HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
 $KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
