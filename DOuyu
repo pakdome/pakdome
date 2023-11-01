@@ -1,5 +1,12 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="SaniMpd", TV3
+#https://aqfadtv.xyz/live/tv3/index.mpd
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+#https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
+
 #EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🎥 MOVIES MIX 886 🎥",MOVIES MIX 2 (C)
 http://epg.112114.xyz/douyu/122402
 
