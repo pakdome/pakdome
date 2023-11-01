@@ -1,13 +1,5 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="SaniMpd", TV3
-#https://aqfadtv.xyz/live/tv3/index.mpd
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-#https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
-
-
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",Home Alone (1990)
 http://www.deadlyblogger.com/NewRelease/homealone1.mp4
 
