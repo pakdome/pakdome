@@ -22,11 +22,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/5b318e37-8add-4b31-90c8-35fc1255014b
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="SaniMpd", TV3 HD
-https://aqfadtv.xyz/live/tv3/index.mpd
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c5WJlU.png?v=1.1.1.1" group-title="SaniMpd" tvg-id="TV3" tvg-name="TV3", TV3
+https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
@@ -163,11 +161,8 @@ $EXTINF:-1 tvg-id="112" tvg-name="ASTRO RANIA HD" group-title="SaniMpd" tvg-logo
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png" group-title="SaniMpd",INSPIRASI
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
-#EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="SaniMpd", ASTRO AWANI
-#https://links.nextv.ga/play/1CyHxbM9mj9O3eg5xiTDfY6_aWSaxyavHSR5cz1Z2IQ
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uc2cHnp.png?v=1.0.0.1" group-title="SaniMpd" tvg-id="Astro Awani" tvg-name="Astro Awani HD", Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
@@ -195,10 +190,10 @@ http://hotz.vip:2082/live/haziqdanial/abc12345/3252.m3u8
 
 ================================MUBEE=================================--------
 
-#EXTINF:-1 group-title="Movies",Rock Action
+#EXTINF:-1 group-title="SaniMpd",Rock Action
 https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sxhqwbc/blueant.png" group-title="Movies",Rock Intertainment
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sxhqwbc/blueant.png" group-title="SaniMpd",Rock Intertainment
 https://op-group2-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
 
 &KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
