@@ -34,10 +34,15 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 &EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="SaniMpd", TV3 HD
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
-#EXTINF:-1 tvg-name="TV9" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="SaniMpd", TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+#EXTINF:-1 tvg-id="TV9" group-title="SaniMpd" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
+https://aqfadtv.xyz/live/tv9/index.mpd
+
+$EXTINF:-1 tvg-name="TV9" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="SaniMpd", TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/481b2cfd-e511-44cc-8440-b410f6f6e4a3
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
+$https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_100.png" group-title="SaniMpd", DidikTV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
@@ -75,21 +80,19 @@ $EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Astro_
 http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=54899939&ct=18190&tsum=730b03822a8792082efdf2edb758e491
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FZoK4df.png" group-title="SaniMpd", ASTRO PRIMA 
-https://aqfadtv.xyz/live/prima/index.mpd
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
-#https://stream.zeehanzgadget.com/prima.mpd
-#https://links.aqfadtv.xyz/prima.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="ASTRO PRIMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="SaniMpd",ASTRO PRIMA HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 $EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="SaniMpd", Astro Prima ⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://50.7.161.82:8278/Prima/playlist.m3u8?tid=74699917&ct=18190&tsum=10f07979a326b9083270f13d653b19a4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" group-title="SaniMpd", Astro Ceria HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" tvg-chno="16" channel-id="16" tvg-group="SaniMpd" group-title="SaniMpd",Astro Ceria
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 
 $EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="SaniMpd", Astro Ceria ⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
@@ -102,14 +105,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 $EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="SaniMpd", BOO ⁽ᴮᵃᶜᵏᵘᵖ⁾
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
+#EXTINF:-1 tvg-id="AstroRia" group-title="SaniMpd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
-#EXTINF:-1 tvg-name="astro ria" tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="SaniMpd", ASTRO RIA
-https://aqfadtv.xyz/live/ria/index.mpd
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-#https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
-#https://stream.zeehanzgadget.com/ria.mpd
-#http://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bkOA_afNkRbLW--SXGZzVHI=nZGd/dash-wv/jitp-linearwm/1004/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 $EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="SaniMpd", Astro Ria ⁽ᴮᵃᶜᵏᵘᵖ⁾
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
