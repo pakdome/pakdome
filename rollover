@@ -205,43 +205,43 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
-#EXTINF:-1 group-title="SaniMpd" tvg-name="HBO Hits" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOHits.png?raw=true",HBO Hits
+%EXTINF:-1 group-title="SaniMpd" tvg-name="HBO Hits" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOHits.png?raw=true",HBO Hits
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+%https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 &EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122" group-title="SaniMpd", HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 &KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
 %https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
-#EXTINF:-1 group-title="SaniMpd" tvg-name="HBO" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBO.png?raw=true",HBO
+#%EXTINF:-1 group-title="SaniMpd" tvg-name="HBO" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBO.png?raw=true",HBO
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+%https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 %KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
 #EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="SaniMpd", HBO
 %https://aqfadtv.xyz/live/hbo/index.mpd
 
-#EXTINF:-1 group-title="SaniMpd" tvg-name="HBO Family" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOFamily.png?raw=true",HBO Family
+%#EXTINF:-1 group-title="SaniMpd" tvg-name="HBO Family" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOFamily.png?raw=true",HBO Family
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+%https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 &KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
 &EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="SaniMpd", HBO FAMILY
 %http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
-#EXTINF:-1 group-title="SaniMpd" tvg-name="HBO Signature" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOSignature.png?raw=true",HBO Signature
+#%EXTINF:-1 group-title="SaniMpd" tvg-name="HBO Signature" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOSignature.png?raw=true",HBO Signature
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+%https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 %KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -317,13 +317,13 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="SaniMpd", SHOWCASE MOVIES
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+&#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="SaniMpd", SHOWCASE MOVIES
+&http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="SaniMpd", PRIMETIME
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
+#&EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="SaniMpd", PRIMETIME
+&http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 
 #EXTINF:-1 group-title="SaniMpd" tvg-name="Paramount Network" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/Paramount_Network.png?raw=true",Paramount Network
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -331,20 +331,20 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+&#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="SaniMpd", CELESTIAL MOVIES
-http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+#&EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="SaniMpd", CELESTIAL MOVIES
+&http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#&KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1109/
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/42_144.png" group-title="SaniMpd",ART Movies ASTV
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default_primary.mpd
+&EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/42_144.png" group-title="SaniMpd",ART Movies ASTV
+&https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+&#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1283d2fab34ca094ab1cfd1238476a10:edf87dc4bdc835c6daffdd213c8029df
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="SaniMpd", CCM
-http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+&EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="SaniMpd", CCM
+&http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -372,8 +372,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8300c66236b3057410cde9cf0970910:f3787e40b34f18ab2dccd809e78ceec1
-$EXTINF:-1 tvg-ID="warnertvhd" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="SaniMpd", WARNER TV HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
+&$EXTINF:-1 tvg-ID="warnertvhd" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="SaniMpd", WARNER TV HD
+&http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
 #EXTINF:-1 group-title="SaniMpd" tvg-name="AXN East Asia" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/AXN.png?raw=true",AXN East Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -384,7 +384,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7f352ff63e533f3baa950d7e2497410:e11de6f5f84bbd2f150ffc82191880e8
 $EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="SaniMpd", AXN
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+&http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -401,7 +401,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c895c9ffb76edf62261e7588665a7310:2bd500fc595131eaf160258a85dc72b6
 $EXTINF:-1 tvg-id="706" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="SaniMpd", HITS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
+&http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
@@ -467,86 +467,9 @@ https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 group-title="TV FILM" tvg-id="" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Cafe-HD.png",Zee Cafe
 https://mhdtv.co.in/jio/stream.php?id=1319&e=.m3u8|Referer=https://mhdtv.co.in/
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="TV FILM", HBO - MAX
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-
-#EXTINF:0 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="TV FILM",HBO Hits - MAX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBneFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDFNeFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="TV FILM", HBO Signature - MAX
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="TV FILM", HBO Family - MAX
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="TV FILM", Cinemax - MAX
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t8X3LHn/maxstream.png" group-title="TV FILM", OD MAXSTREAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:0 tvg-id="Cinemax HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="TV FILM", Cinemax
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:0 tvg-id="HBO HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="TV FILM", HBO
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDFNeFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:0 tvg-id="HBO Signature HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="TV FILM", HBO Signature
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:0 tvg-id="HBO Family HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="TV FILM", HBO Family
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-
-KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPremier" tvg-name="Astro Tayangan Hebat 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/176_144.png" tvg-chno="61" channel-id="61" group-title="SaniMpd", Astro Premier
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
