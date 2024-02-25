@@ -109,7 +109,7 @@ http://50.7.234.10:8278/Ceria/playlist.m3u8
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="SaniMpd", BOO backup
-http://50.7.234.10:827/Boo/playlist.m3u8 
+http://50.7.234.10:8278/Boo/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" tvg-chno="13" channel-id="13" tvg-group="MY/SG" group-title="SaniMpd",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -124,7 +124,7 @@ http://50.7.234.10:8278/Ria/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/412YC97OfL0tRH7547SNxmrUo_tlqA-v69VOTRY-H7RKo=q_ZU/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=d95cfe63-a518-4b47-aa20-d94227faeaae
 
-#EXTINF:-1 tvg-logo="" group-title="SaniMpd", Astro Warna B
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="SaniMpd", Astro Warna B
 http://50.7.234.10:8278/Warna/playlist.m3u8
 
 $EXTINF:-1 tvg-id="107" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="SaniMpd", ASTRO WARNA
