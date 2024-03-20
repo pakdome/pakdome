@@ -26,10 +26,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c5WJlU.png?v=1.1.1.1" group-title="SaniMpd" tvg-id="TV3" tvg-name="TV3", TV3 HD
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="SaniMpd", TV3
-https://aqfadtv.xyz/live/tv3/index.mpd
+&#KODIPROP:inputstream.adaptive.license_type=clearkey
+&#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+&#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="SaniMpd", TV3
+&https://aqfadtv.xyz/live/tv3/index.mpd
 
 &EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png" group-title="SaniMpd", TV3 HD
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
@@ -84,21 +84,28 @@ http://50.7.234.10:8278/Oasis/playlist.m3u8?tid=54899939&ct=18190&tsum=730b03822
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="AstroPrima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" tvg-chno="12" channel-id="12" tvg-group="MY/SG" group-title="SaniMpd",Astro Prima
 &https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41k5piW7fDOXyn3bkrCuzrfq_RvqbOT3kzm730JQAm95E=luUk/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=18f16944-2934-4c8a-9aa8-dd4322cd8e2d
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="SaniMpd", Astro Prima B
-http://50.7.234.10:8278/Prima/playlist.m3u8
-
 &#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" tvg-chno="16" channel-id="16" tvg-group="SaniMpd" group-title="SaniMpd",Astro Ceria
 &http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="SaniMpd", Astro Ceria B
 http://50.7.234.10:8278/Ceria/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="SaniMpd", Astro Ria B
+http://50.7.234.10:8278/Ria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="SaniMpd", Astro Prima B
+http://50.7.234.10:8278/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="SaniMpd", Astro Warna B
+http://50.7.234.10:8278/Warna/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="SaniMpd", Astro Boo B
 http://50.7.234.10:8278/Boo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra B
+http://50.7.234.10:8278/Citra/playlist.m3u8
 
 %KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
@@ -116,31 +123,21 @@ http://50.7.234.10:8278/Boo/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 &https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHYb80PIUBY7tD0EfWv6HIuY=FSAd/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="SaniMpd", Astro Ria B
-http://50.7.234.10:8278/Ria/playlist.m3u8
-
 #&EXTINF:-1 tvg-id="AstroWarna" tvg-name="AstroWarna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png" tvg-chno="14" channel-id="14" tvg-group="MY/SG" group-title="SaniMpd",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 &https://72e103a43f664fb680904780e3641493.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH4-dash/vsg/412YC97OfL0tRH7547SNxmrUo_tlqA-v69VOTRY-H7RKo=q_ZU/dash-wv/jitp-dashisowm/2402/default_ott.mpd?aws.sessionId=d95cfe63-a518-4b47-aa20-d94227faeaae
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="SaniMpd", Astro Warna B
-http://50.7.234.10:8278/Warna/playlist.m3u8
-
 $EXTINF:-1 tvg-id="107" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="SaniMpd", ASTRO WARNA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 $EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://stream.zeehanzgadget.com/warna
+&https://stream.zeehanzgadget.com/warna
 
 &#EXTINF:-1 tvg-id="AstroCitra" tvg-name="AstroCitra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" tvg-chno="15" channel-id="15" tvg-group="MY/SG" group-title="SaniMpd",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 &https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41O_F8KUa3u_jFFQIAtETDpDtw-2zdKWczmPuIm8o-fd8=V-If/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=437c704e-0626-4f58-baff-6d360fe95318
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra B
-http://50.7.234.10:8278/Citra/playlist.m3u8
-
 
 #http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
 
@@ -208,7 +205,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockente
 %https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 %KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="SaniMpd", HBO
+&EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="SaniMpd", HBO
 %https://aqfadtv.xyz/live/hbo/index.mpd
 
 %#EXTINF:-1 group-title="SaniMpd" tvg-name="HBO Family" tvg-logo="https://github.com/ProjectRedis/TV-LogoPack/blob/main/TVLogo/HBOFamily.png?raw=true",HBO Family
@@ -245,11 +242,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
-#EXTINF:-1 group-title="SaniMpd" tvg-name="Cinemax" tvg-logo="",Cinemax
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+&#EXTVLCOPT:http-referrer=https://maxstream.tv/
+&#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+&#KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
+&EXTINF:-1 group-title="SaniMpd" tvg-name="Cinemax" tvg-logo="",Cinemax
+&https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -350,7 +347,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://s29.postimg.cc/v23lwpn9j/warnertv.png" group-title="SaniMpd",Warner TV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
