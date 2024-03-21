@@ -108,7 +108,7 @@ http://50.7.234.10:8278/Boo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra B
 http://50.7.234.10:8278/Citra/playlist.m3u8
 
-%KODIPROP:inputstream.adaptive.license_type=clearkey
+&&KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
 %EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="SaniMpd", BOO HD
 %http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
