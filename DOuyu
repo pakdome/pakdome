@@ -132,6 +132,30 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/LCBLk2T.png?v=1.0.0.1" group-title="Nasional" tvg-id="BN TV" tvg-name="BN TV", BN TV
 http://al.nng.cloudns.us/BNTV/index.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://CUBMU.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title=MOVIE",HBO Hits (Transcorp)
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://CUBMU.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title=MOVIE",HBO Family (Transcorp)
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://CUBMU.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title=MOVIE",HBO Signature (Transcorp)
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://CUBMU.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title=MOVIE",Cinemax (Transcorp)
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
 ########################################################      Kids     ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
