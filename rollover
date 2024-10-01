@@ -68,6 +68,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
 #EXTINF:-1 tvg-logo="https://iili.io/1NqAMl.png" group-title="SaniMpd", AWESOME TV
+http://50.7.234.10:8278/Awesome_mega/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=567132847c58b7c386e2d8ab08623602
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 https://aqfadtv.xyz/live/awesometv/index.mpd
 
@@ -79,75 +80,64 @@ https://aqfadtv.xyz/live/awesometv/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Astro_Oasis_HD.png/220px-Astro_Oasis_HD.png" group-title="SaniMpd", Astro Oasis B
 http://50.7.234.10:8278/Oasis/playlist.m3u8?tid=54899939&ct=18190&tsum=730b03822a8792082efdf2edb758e491
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+%#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="AstroPrima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" tvg-chno="12" channel-id="12" tvg-group="MY/SG" group-title="SaniMpd",Astro Prima
 &https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41k5piW7fDOXyn3bkrCuzrfq_RvqbOT3kzm730JQAm95E=luUk/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=18f16944-2934-4c8a-9aa8-dd4322cd8e2d
-http://31.42.187.37:25461/watchpad13158/1234/65
 
 &#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="AstroCeria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" tvg-chno="16" channel-id="16" tvg-group="SaniMpd" group-title="SaniMpd",Astro Ceria
 &http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
-#EXTINF:-1 group-title="SaniMpd" tvg-id="AstroRia" ch-number="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria
+#%EXTINF:-1 group-title="SaniMpd" tvg-id="AstroRia" ch-number="104" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
 ##https://linearjitp02-playback.astro.com.my/vsg/41Q2JOX8KtOe28ba8x3splIguOrP487D2BAVqzhfqNLpU=z4VY/dash-wv/jitp-linearwm/1004/default.mpd
 ##https://ktpremium.com:443/N197NGF/8199/912833
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
-http://31.42.187.37:25461/watchpad13158/1234/68
+%https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="SaniMpd" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
+
+#%EXTINF:-1 tvg-id="AstroCitra" group-title="SaniMpd" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 ##https://aqfadtv.xyz/live/citra/index.mpd
 ##https://linears-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzhUDi-8zGm7sgyhAlDF5UQ=UBTa/dash-wv/jitp-dashisowm/2700/default.mpd
 ##https://ktpremium.com:443/N197NGF/8199/25852
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157569
+%https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="SaniMpd" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
+
+%EXTINF:-1 tvg-id="AstroWarna" group-title="SaniMpd" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 ##https://aqfadtv.xyz/live/warna/index.mpd
 ##https://linears-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzUrKeL5iqw_9atJ6Dnlv8k=-VNo/dash-wv/jitp-linearwm/2402/default.mpd
 ##http://muka03.wanicelife.com:8880/live/3ca7283n03/asdf23e423/1706.ts
 ##https://ktpremium.com:443/N197NGF/8199/25867
-https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
-http://31.42.187.37:25461/watchpad13158/1234/87
+%https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
+%http://31.42.187.37:25461/watchpad13158/1234/87
 
-%EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="SaniMpd", Astro Ceria B
-%http://50.7.234.10:8278/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="SaniMpd", Astro Ceria B
+http://50.7.234.10:8278/Ceria/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bda3ad6149e5e65417dfac231b232d7b
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="SaniMpd", Astro Ria B
-÷http://50.7.234.10:8278/Ria/playlist.m3u8
-http://31.42.187.37:25461/watchpad13158/1234/68
+http://50.7.234.10:8278/Ria-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=5f6516ffccb5907ca205b12bdc7ff6ef
+http://50.7.234.10:8278/Ria49/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=64ada2009698fe228eccf08c4bff2157
+http://50.7.234.10:8278/Ria_quanjia/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=a85951d75054cf9b117aa2f16107895e
 
-%#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="SaniMpd", Astro Prima B
-÷http://50.7.234.10:8278/Prima/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="SaniMpd", Astro Prima B
+http://50.7.234.10:8278/Prima-0/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8d50adae071d1fc0e37af6bb7d69e895
+http://50.7.234.10:8278/Prima49/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=113db8e6235948b4ecf08c62936ab6a1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="SaniMpd", Astro Warna B
-%http://50.7.234.10:8278/Warna/playlist.m3u8
-http://31.42.187.37:25461/watchpad13158/1234/87
+http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=86d24c67ba0cc5a260cf7e51f16fdb81
+http://50.7.234.10:8278/Warna/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3b80042009b1f0e8e25ce5fca11b9888
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="SaniMpd", Astro Boo B
-http://50.7.234.10:8278/Boo/playlist.m3u8
+http://50.7.234.10:8278/Boo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=53f9bb0446a6aa3ab4d98cbc0de6c5d8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_300.png" group-title="SaniMpd", Astro Citra B
-%http://50.7.234.10:8278/Citra/playlist.m3u8
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157569
-
-&&KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
-%EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="SaniMpd", BOO HD
-%http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
-
-&#EXTINF:-1 tvg-id="BOO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="SaniMpd",BOO HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
-&http://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
 
 &#EXTINF:-1 tvg-id="AstroRia" tvg-name="AstroRia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" tvg-chno="13" channel-id="13" tvg-group="MY/SG" group-title="SaniMpd",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -165,12 +155,11 @@ $EXTINF:-1 tvg-id="107" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="
 $EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 &https://stream.zeehanzgadget.com/warna
 
-&#EXTINF:-1 tvg-id="AstroCitra" tvg-name="AstroCitra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" tvg-chno="15" channel-id="15" tvg-group="MY/SG" group-title="SaniMpd",Astro Citra
+%#EXTINF:-1 tvg-id="AstroCitra" tvg-name="AstroCitra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" tvg-chno="15" channel-id="15" tvg-group="MY/SG" group-title="SaniMpd",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-&https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41O_F8KUa3u_jFFQIAtETDpDtw-2zdKWczmPuIm8o-fd8=V-If/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=437c704e-0626-4f58-baff-6d360fe95318
-
-#http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
+%https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41O_F8KUa3u_jFFQIAtETDpDtw-2zdKWczmPuIm8o-fd8=V-If/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=437c704e-0626-4f58-baff-6d360fe95318
+%http://50.7.220.74:8278/Citra/playlist.m3u8?tid=m02000000000010362776&ct=17958&tsum=dc40ef1aeb6d02be3b40e2da82894583
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
