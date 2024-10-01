@@ -526,16 +526,19 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" group-title="SaniMpd",Sony Pix HD
+http://50.7.234.10:8278/sonypix_mega/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=2fcd9cd7b4a81d2ff982676ad46e845f
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-logo="http://live.flixhub.net/img/sonymaxhd.jpg" group-title="SaniMpd",Sony Max HD
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-logo="http://live.flixhub.net/img/sonymaxhd.jpg" group-title="SaniMpd",Star Movies HD
+http://50.7.234.10:8278/starmovies_raj/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=29b65859cd823e5cc563368dbb6f228c
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:set_max_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonySab.in" tvg-logo="http://live.flixhub.net/img/sonysabhd.jpg" group-title="SaniMpd",Sony Sab HD
+#EXTINF:-1 tvg-id="SonySab.in" tvg-logo="http://live.flixhub.net/img/sonysabhd.jpg" group-title="SaniMpd",Movies Now HD
+http://50.7.234.10:8278/moviesnow_raj/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f12e21336370391268975101ce7c1dd7
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
