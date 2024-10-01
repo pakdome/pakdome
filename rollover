@@ -210,6 +210,7 @@ http://hotz.vip:2082/live/haziqdanial/abc12345/3252.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
 #EXTVLCOPT:http-referrer=https://visionplus.id
+http://50.7.234.10:8278/Rockaction/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=a770290a29f3b4c4f9baca44470db8d5
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockActionHD.mpd
 
 #EXTINF:-1 tvg-id="Rock Entertainment" tvg-logo="http://guki.my.id/logo/movie/rockenter.png" group-title="SaniMpd", Rock Entertainment
